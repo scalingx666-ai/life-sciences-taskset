@@ -1,0 +1,247 @@
+ENTRY       4609              CDS       T01001
+SYMBOL      MYC, MRTL, MYCC, bHLHe39, c-Myc
+NAME        (RefSeq) myc proto-oncogene protein isoform 1
+ORTHOLOGY   K04377  Myc proto-oncogene protein
+ORGANISM    hsa  Homo sapiens (human)
+PATHWAY     hsa04010  MAPK signaling pathway
+            hsa04012  ErbB signaling pathway
+            hsa04110  Cell cycle
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04218  Cellular senescence
+            hsa04310  Wnt signaling pathway
+            hsa04350  TGF-beta signaling pathway
+            hsa04390  Hippo signaling pathway
+            hsa04550  Signaling pathways regulating pluripotency of stem cells
+            hsa04630  JAK-STAT signaling pathway
+            hsa04919  Thyroid hormone signaling pathway
+            hsa05132  Salmonella infection
+            hsa05160  Hepatitis C
+            hsa05161  Hepatitis B
+            hsa05163  Human cytomegalovirus infection
+            hsa05166  Human T-cell leukemia virus 1 infection
+            hsa05167  Kaposi sarcoma-associated herpesvirus infection
+            hsa05169  Epstein-Barr virus infection
+            hsa05200  Pathways in cancer
+            hsa05202  Transcriptional misregulation in cancer
+            hsa05205  Proteoglycans in cancer
+            hsa05206  MicroRNAs in cancer
+            hsa05207  Chemical carcinogenesis - receptor activation
+            hsa05210  Colorectal cancer
+            hsa05213  Endometrial cancer
+            hsa05216  Thyroid cancer
+            hsa05219  Bladder cancer
+            hsa05220  Chronic myeloid leukemia
+            hsa05221  Acute myeloid leukemia
+            hsa05222  Small cell lung cancer
+            hsa05224  Breast cancer
+            hsa05225  Hepatocellular carcinoma
+            hsa05226  Gastric cancer
+            hsa05230  Central carbon metabolism in cancer
+NETWORK     nt06160  Human T-cell leukemia virus 1 (HTLV-1)
+            nt06163  Hepatitis C virus (HCV)
+            nt06164  Kaposi sarcoma-associated herpesvirus (KSHV)
+            nt06165  Epstein-Barr virus (EBV)
+            nt06181  Salmonella
+            nt06210  ERK signaling (cancer)
+            nt06215  WNT signaling (cancer)
+            nt06227  Nuclear receptor signaling (cancer)
+            nt06230  Cell cycle (cancer)
+            nt06240  Transcription (cancer)
+            nt06260  Colorectal cancer
+            nt06261  Gastric cancer
+            nt06263  Hepatocellular carcinoma
+            nt06265  Bladder cancer
+            nt06267  Small cell lung cancer
+            nt06270  Breast cancer
+            nt06271  Endometrial cancer
+            nt06274  Thyroid cancer
+            nt06275  Acute myeloid leukemia
+            nt06505  WNT signaling
+            nt06526  MAPK signaling
+  ELEMENT   N00011  Mutation-activated FGFR3 to RAS-ERK signaling pathway
+            N00056  Wnt signaling pathway, Canonical pathway
+            N00057  Mutation-inactivated APC to Wnt signaling pathway
+            N00058  Mutation-activated CTNNB1 to Wnt signaling pathway
+            N00059  FZD7-overexpression to Wnt signaling pathway
+            N00060  LRP6-overexpression to Wnt signaling pathway
+            N00061  CDH1-reduced expression to beta-catenin signaling pathway
+            N00077  HRAS-overexpression to ERK signaling pathway
+            N00078  Mutation-activated HRAS to ERK signaling pathway
+            N00088  Amplified MYC to p15-cell cycle G1/S
+            N00089  Amplified MYC to cell cycle G1/S
+            N00090  p15-Cell cycle G1/S
+            N00092  Amplified MYC to p27-cell cycle G1/S
+            N00110  PLZF-RARA fusion to transcriptional activtion
+            N00133  EWSR1-FLI1 fusion to transcriptional activation
+            N00225  EBV EBNA2 to RBP-Jk-mediated transcription
+            N00242  Mutation-inactivated AXIN to Wnt signaling pathway
+            N00257  Loss of CDH1 to beta-catenin signaling pathway
+            N00258  Mutation-inactivated CDH1 to beta-catenin signaling pathway
+            N00287  ESR1-positive to nuclear-initiated estrogen signaling pathway
+            N00489  HTLV-1 p30II to c-myc-mediated transcription
+            N00512  HTLV-1 Tax to c-myc-mediated transcription
+            N00529  HCV core to RXRA/PPARA-mediated transcription
+            N00530  HCV core to RXRA/LXRA-mediated transcription
+            N01124  Salmonella AvrA to beta-catenin signaling pathway
+            N01344  NNK/NNN to RAS-ERK signaling pathway
+            N01602  ERK-MYC signaling pathway
+DISEASE     H00001  B-cell acute lymphoblastic leukemia
+            H00002  T-cell acute lymphoblastic leukemia
+            H00008  Burkitt lymphoma
+            H00010  Multiple myeloma
+            H00013  Small cell lung cancer
+            H00016  Oral cancer
+            H00025  Penile cancer
+            H00027  Ovarian cancer
+            H00028  Choriocarcinoma
+            H00036  Osteosarcoma
+            H00041  Kaposi sarcoma
+            H00048  Hepatocellular carcinoma
+            H00055  Laryngeal cancer
+            H01463  Mycosis fungoides
+            H01509  Tonsillar cancer
+            H01554  Fallopian tube cancer
+            H01667  Medulloblastoma
+            H02434  Diffuse large B-cell lymphoma, not otherwise specified
+DRUG_TARGET Omacetaxine mepesuccinate: D08956
+BRITE       KEGG Orthology (KO) [BR:hsa00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               04010 MAPK signaling pathway
+                4609 (MYC)
+               04012 ErbB signaling pathway
+                4609 (MYC)
+               04310 Wnt signaling pathway
+                4609 (MYC)
+               04350 TGF-beta signaling pathway
+                4609 (MYC)
+               04390 Hippo signaling pathway
+                4609 (MYC)
+               04630 JAK-STAT signaling pathway
+                4609 (MYC)
+               04151 PI3K-Akt signaling pathway
+                4609 (MYC)
+             09140 Cellular Processes
+              09143 Cell growth and death
+               04110 Cell cycle
+                4609 (MYC)
+               04218 Cellular senescence
+                4609 (MYC)
+              09144 Cellular community - eukaryotes
+               04550 Signaling pathways regulating pluripotency of stem cells
+                4609 (MYC)
+             09150 Organismal Systems
+              09152 Endocrine system
+               04919 Thyroid hormone signaling pathway
+                4609 (MYC)
+             09160 Human Diseases
+              09161 Cancer: overview
+               05200 Pathways in cancer
+                4609 (MYC)
+               05202 Transcriptional misregulation in cancer
+                4609 (MYC)
+               05206 MicroRNAs in cancer
+                4609 (MYC)
+               05205 Proteoglycans in cancer
+                4609 (MYC)
+               05207 Chemical carcinogenesis - receptor activation
+                4609 (MYC)
+               05230 Central carbon metabolism in cancer
+                4609 (MYC)
+              09162 Cancer: specific types
+               05210 Colorectal cancer
+                4609 (MYC)
+               05225 Hepatocellular carcinoma
+                4609 (MYC)
+               05226 Gastric cancer
+                4609 (MYC)
+               05216 Thyroid cancer
+                4609 (MYC)
+               05221 Acute myeloid leukemia
+                4609 (MYC)
+               05220 Chronic myeloid leukemia
+                4609 (MYC)
+               05219 Bladder cancer
+                4609 (MYC)
+               05213 Endometrial cancer
+                4609 (MYC)
+               05224 Breast cancer
+                4609 (MYC)
+               05222 Small cell lung cancer
+                4609 (MYC)
+              09172 Infectious disease: viral
+               05166 Human T-cell leukemia virus 1 infection
+                4609 (MYC)
+               05161 Hepatitis B
+                4609 (MYC)
+               05160 Hepatitis C
+                4609 (MYC)
+               05163 Human cytomegalovirus infection
+                4609 (MYC)
+               05167 Kaposi sarcoma-associated herpesvirus infection
+                4609 (MYC)
+               05169 Epstein-Barr virus infection
+                4609 (MYC)
+              09171 Infectious disease: bacterial
+               05132 Salmonella infection
+                4609 (MYC)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:hsa03000]
+                4609 (MYC)
+               03019 Messenger RNA biogenesis [BR:hsa03019]
+                4609 (MYC)
+            Transcription factors [BR:hsa03000]
+             Eukaryotic type
+              Basic helix-loop-helix/leucine zipper (bHLH-ZIP)
+               Cell cycle controlling factors, Myc
+                4609 (MYC)
+            Messenger RNA biogenesis [BR:hsa03019]
+             Eukaryotic type
+              mRNA surveillance and transport factors
+               Factors involved in mRNA localization
+                Factors that have mRNA localization signals
+                 4609 (MYC)
+POSITION    8:127735434..127742951
+MOTIF       Pfam: Myc_N Myc-LZ HLH TRH bHLH_IRO3 bHLH_INO2
+DBLINKS     NCBI-GeneID: 4609
+            NCBI-ProteinID: NP_002458
+            OMIM: 190080
+            HGNC: 7553
+            Ensembl: ENSP00000478887.2
+            UniProt: P01106
+STRUCTURE   PDB
+AASEQ       454
+            MDFFRVVENQQPPATMPLNVSFTNRNYDLDYDSVQPYFYCDEEENFYQQQQQSELQPPAP
+            SEDIWKKFELLPTPPLSPSRRSGLCSPSYVAVTPFSLRGDNDGGGGSFSTADQLEMVTEL
+            LGGDMVNQSFICDPDDETFIKNIIIQDCMWSGFSAAAKLVSEKLASYQAARKDSGSPNPA
+            RGHSVCSTSSLYLQDLSAAASECIDPSVVFPYPLNDSSSPKSCASQDSSAFSPSSDSLLS
+            STESSPQGSPEPLVLHEETPPTTSSDSEEEQEDEEEIDVVSVEKRQAPGKRSESGSPSAG
+            GHSKPPHSPLVLKRCHVSTHQHNYAAPPSTRKDYPAAKRVKLDSVRVLRQISNNRKCTSP
+            RSSDTEENVKRRTHNVLERQRRNELKRSFFALRDQIPELENNEKAPKVVILKKATAYILS
+            VQAEEQKLISEEDLLRKRREQLKHKLEQLRNSCA
+NTSEQ       1365
+            ctggatttttttcgggtagtggaaaaccagcagcctcccgcgacgatgcccctcaacgtt
+            agcttcaccaacaggaactatgacctcgactacgactcggtgcagccgtatttctactgc
+            gacgaggaggagaacttctaccagcagcagcagcagagcgagctgcagcccccggcgccc
+            agcgaggatatctggaagaaattcgagctgctgcccaccccgcccctgtcccctagccgc
+            cgctccgggctctgctcgccctcctacgttgcggtcacacccttctcccttcggggagac
+            aacgacggcggtggcgggagcttctccacggccgaccagctggagatggtgaccgagctg
+            ctgggaggagacatggtgaaccagagtttcatctgcgacccggacgacgagaccttcatc
+            aaaaacatcatcatccaggactgtatgtggagcggcttctcggccgccgccaagctcgtc
+            tcagagaagctggcctcctaccaggctgcgcgcaaagacagcggcagcccgaaccccgcc
+            cgcggccacagcgtctgctccacctccagcttgtacctgcaggatctgagcgccgccgcc
+            tcagagtgcatcgacccctcggtggtcttcccctaccctctcaacgacagcagctcgccc
+            aagtcctgcgcctcgcaagactccagcgccttctctccgtcctcggattctctgctctcc
+            tcgacggagtcctccccgcagggcagccccgagcccctggtgctccatgaggagacaccg
+            cccaccaccagcagcgactctgaggaggaacaagaagatgaggaagaaatcgatgttgtt
+            tctgtggaaaagaggcaggctcctggcaaaaggtcagagtctggatcaccttctgctgga
+            ggccacagcaaacctcctcacagcccactggtcctcaagaggtgccacgtctccacacat
+            cagcacaactacgcagcgcctccctccactcggaaggactatcctgctgccaagagggtc
+            aagttggacagtgtcagagtcctgagacagatcagcaacaaccgaaaatgcaccagcccc
+            aggtcctcggacaccgaggagaatgtcaagaggcgaacacacaacgtcttggagcgccag
+            aggaggaacgagctaaaacggagcttttttgccctgcgtgaccagatcccggagttggaa
+            aacaatgaaaaggcccccaaggtagttatccttaaaaaagccacagcatacatcctgtcc
+            gtccaagcagaggagcaaaagctcatttctgaagaggacttgttgcggaaacgacgagaa
+            cagttgaaacacaaacttgaacagctacggaactcttgtgcgtaa
+///

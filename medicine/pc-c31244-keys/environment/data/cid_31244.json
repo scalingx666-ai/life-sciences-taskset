@@ -1,0 +1,20 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 31244,
+        "MolecularFormula": "C8H8O2",
+        "MolecularWeight": "136.15",
+        "ConnectivitySMILES": "COC1=CC=C(C=C1)C=O",
+        "InChIKey": "ZRSNZINYAWTAHE-UHFFFAOYSA-N",
+        "XLogP": 1.8,
+        "TPSA": 26.3,
+        "Complexity": 104,
+        "HBondDonorCount": 0,
+        "HBondAcceptorCount": 2,
+        "RotatableBondCount": 2,
+        "HeavyAtomCount": 10
+      }
+    ]
+  }
+}
