@@ -1,12 +1,45 @@
 {
-  "deepest_path": "citation.0.rcsb_authors.0",
-  "depth_histogram": {
-    "1": 1,
-    "2": 33,
-    "3": 53,
-    "4": 7
-  },
-  "max_nesting_depth": 5,
-  "n_container_nodes": 94,
-  "n_leaf_values": 353
+  "citation_pubmed": 6941276,
+  "citation_year": 1981,
+  "deposited_solvent_atom_count": 80,
+  "is_nucleic_acid_only": true,
+  "keywords_pdbx": "DNA",
+  "ledger_consistent": true,
+  "ledger_sum": 566,
+  "molecular_weight": 7.33,
+  "n_exptl_crystal_grow": 1,
+  "n_ndb_conf_features": 1,
+  "n_primary_authors": 7,
+  "n_reflns_obs": 2725,
+  "na_polymer_entity_types": "DNA (only)",
+  "ndb_conf_features": [
+    "b-form double helix"
+  ],
+  "nucleic_acid_atoms": 486,
+  "nucleic_acid_atoms_positive": true,
+  "polymer_composition": "DNA",
+  "polymer_entity_count_DNA": 1,
+  "polymer_entity_count_protein": 0,
+  "primary_authors": [
+    "Drew, H.R.",
+    "Wing, R.M.",
+    "Takano, T.",
+    "Broka, C.",
+    "Tanaka, S.",
+    "Itakura, K.",
+    "Dickerson, R.E."
+  ],
+  "protein_atoms": 0,
+  "protein_atoms_zero": true,
+  "r_factor": 0.178,
+  "rcsb_id": "1BNA",
+  "refined_total_atoms": 566,
+  "resolution_high": 1.9,
+  "resolution_low": 8.0,
+  "selected_polymer_entity_types": "Nucleic acid (only)",
+  "software_programs_combined": [
+    "JACK-LEVITT"
+  ],
+  "solvent_atoms": 80,
+  "struct_title": "STRUCTURE OF A B-DNA DODECAMER. CONFORMATION AND DYNAMICS"
 }

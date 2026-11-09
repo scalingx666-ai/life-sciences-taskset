@@ -1,48 +1,19 @@
 {
-  "bigram_entropy_bits": 3.947352,
-  "distinct_bigrams": 16,
-  "n_bigrams": 5172,
-  "sequence_length": 5173,
-  "top_bigrams": [
-    [
-      "TG",
-      447
-    ],
-    [
-      "CC",
-      441
-    ],
-    [
-      "GG",
-      412
-    ],
-    [
-      "CA",
-      401
-    ],
-    [
-      "GA",
-      370
-    ],
-    [
-      "CT",
-      363
-    ],
-    [
-      "GC",
-      353
-    ],
-    [
-      "AG",
-      351
-    ],
-    [
-      "AC",
-      310
-    ],
-    [
-      "TC",
-      307
-    ]
-  ]
+  "cpg_observed_expected": 0.532982,
+  "dinucleotide_entropy_bits": 3.947352,
+  "distinct_dinucleotides": 16,
+  "gene_symbol": "LDLR",
+  "header_accession": "NM_000527.5",
+  "least_frequent_count": 133,
+  "least_frequent_pair": "TA",
+  "most_frequent_codon": "TGG",
+  "most_frequent_codon_count": 55,
+  "most_frequent_count": 447,
+  "most_frequent_pair": "TG",
+  "n_atg_codons": 40,
+  "n_dinucleotides": 5172,
+  "n_frame0_codons": 1724,
+  "n_stop_codons": 42,
+  "self_transition_count": 1407,
+  "sequence_length": 5173
 }

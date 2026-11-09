@@ -1,8 +1,17 @@
 {
-  "c_count": 1877,
-  "g_count": 1769,
-  "gc_content": 0.615151,
+  "at_skew": -0.067076,
+  "cpg_count": 226,
+  "cpg_observed_expected": 0.403414,
+  "cpg_per_kb": 38.130589,
+  "gc_fraction": 0.615151,
+  "gc_rich_window_fraction": 0.744509,
   "gc_skew": -0.029622,
-  "non_gc_fraction": 0.384849,
-  "sequence_length": 5927
+  "gene_symbol": "COL1A1",
+  "header_accession": "NM_000088.3",
+  "max_window_gc": 0.78,
+  "n_gc_rich_windows": 4339,
+  "n_windows": 5828,
+  "purine_fraction": 0.477982,
+  "sequence_length": 5927,
+  "window_width": 100
 }

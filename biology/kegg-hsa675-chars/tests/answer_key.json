@@ -1,50 +1,93 @@
 {
-  "n_chars": 19850,
-  "n_digits": 355,
-  "n_distinct_chars": 70,
-  "n_letters": 15176,
-  "n_lines": 307,
-  "n_spaces": 3911,
-  "top_chars": [
-    [
-      " ",
-      3911
-    ],
-    [
-      "a",
-      3890
-    ],
-    [
-      "t",
-      2901
-    ],
-    [
-      "g",
-      1892
-    ],
-    [
-      "c",
-      1850
-    ],
-    [
-      "S",
-      394
-    ],
-    [
-      "K",
-      327
-    ],
-    [
-      "E",
-      312
-    ],
-    [
-      "\n",
-      306
-    ],
-    [
-      "L",
-      287
-    ]
-  ]
+  "aaseq_actual_length": 3418,
+  "aaseq_declared_length": 3418,
+  "aaseq_first10": "MPIGSKERPT",
+  "aaseq_last10": "QDTITTKKYI",
+  "aaseq_length_consistent": true,
+  "chromosome": "13",
+  "coding_invariant_holds": true,
+  "dblinks": {
+    "Ensembl": "ENSP00000369497.3",
+    "HGNC": "1101",
+    "NCBI-GeneID": "675",
+    "NCBI-ProteinID": "NP_000050",
+    "OMIM": "600185",
+    "UniProt": "P51587 A0A7P0T9D7"
+  },
+  "disease_ids": [
+    "H00019",
+    "H00027",
+    "H00031",
+    "H00042",
+    "H00238",
+    "H01554",
+    "H01667",
+    "H02301",
+    "H02531"
+  ],
+  "entry_id": "675",
+  "entry_t_code": "T01001",
+  "entry_type": "CDS",
+  "n_aaseq_lines": 57,
+  "n_diseases": 9,
+  "n_ntseq_lines": 171,
+  "n_pathways": 5,
+  "n_pfam_motifs": 9,
+  "n_sections": 16,
+  "n_symbols": 11,
+  "ntseq_actual_length": 10257,
+  "ntseq_declared_length": 10257,
+  "ntseq_first_codon": "atg",
+  "ntseq_gc_content": 0.357317,
+  "ntseq_last_codon": "taa",
+  "ntseq_length_consistent": true,
+  "organism_code": "hsa",
+  "pathway_ids": [
+    "hsa03440",
+    "hsa03460",
+    "hsa05200",
+    "hsa05212",
+    "hsa05224"
+  ],
+  "position_end": 32400268,
+  "position_start": 32315077,
+  "primary_symbol": "BRCA2",
+  "section_line_counts": {
+    "///": 1,
+    "AASEQ": 58,
+    "BRITE": 44,
+    "DBLINKS": 6,
+    "DISEASE": 9,
+    "ENTRY": 1,
+    "MOTIF": 1,
+    "NAME": 1,
+    "NETWORK": 4,
+    "NTSEQ": 172,
+    "ORGANISM": 1,
+    "ORTHOLOGY": 1,
+    "PATHWAY": 5,
+    "POSITION": 1,
+    "STRUCTURE": 1,
+    "SYMBOL": 1
+  },
+  "section_names": [
+    "ENTRY",
+    "SYMBOL",
+    "NAME",
+    "ORTHOLOGY",
+    "ORGANISM",
+    "PATHWAY",
+    "NETWORK",
+    "DISEASE",
+    "BRITE",
+    "POSITION",
+    "MOTIF",
+    "DBLINKS",
+    "STRUCTURE",
+    "AASEQ",
+    "NTSEQ",
+    "///"
+  ],
+  "terminator_present": true,
+  "total_lines": 307
 }

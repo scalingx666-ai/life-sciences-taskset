@@ -1,9 +1,14 @@
 {
-  "argmax_window_start": 628,
-  "n_windows": 85134,
-  "window_gc_max": 0.82,
-  "window_gc_mean": 0.382054,
-  "window_gc_min": 0.04,
-  "window_gc_std": 0.113617,
-  "window_size": 50
+  "distinct_rounded_gc": 326,
+  "global_gc_fraction": 0.382013,
+  "max_window_start": 81,
+  "min_window_start": 30945,
+  "n_windows": 84184,
+  "n_windows_below_global": 47298,
+  "sequence_length": 85183,
+  "window_gc_max": 0.602,
+  "window_gc_mean": 0.380789,
+  "window_gc_min": 0.277,
+  "window_gc_variance": 0.002433,
+  "window_width": 1000
 }

@@ -1,9 +1,13 @@
 {
-  "bigram_entropy_bits": 6.963211,
-  "distinct_bigrams": 147,
-  "n_bigrams": 266,
+  "dipeptide_entropy_bits": 6.963211,
+  "distinct_dipeptides": 147,
+  "most_frequent_count": 6,
+  "most_frequent_dipeptide": "LE",
+  "n_dipeptides": 266,
+  "n_missing_dipeptides": 253,
+  "self_transition_count": 14,
   "sequence_length": 267,
-  "top_bigrams": [
+  "top5_dipeptides": [
     [
       "LE",
       6
@@ -23,26 +27,6 @@
     [
       "KL",
       5
-    ],
-    [
-      "LA",
-      5
-    ],
-    [
-      "QE",
-      5
-    ],
-    [
-      "RQ",
-      5
-    ],
-    [
-      "EE",
-      4
-    ],
-    [
-      "EL",
-      4
     ]
   ]
 }

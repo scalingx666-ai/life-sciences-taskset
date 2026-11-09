@@ -1,12 +1,21 @@
 {
-  "deepest_path": "citation.0.rcsb_authors.0",
-  "depth_histogram": {
-    "1": 1,
-    "2": 24,
-    "3": 46,
-    "4": 6
-  },
-  "max_nesting_depth": 5,
+  "atoms_per_modelled_residue": 7.57085,
+  "cell_Z": 8,
+  "deepest_path": "citation[0]",
+  "deposited_atom_count": 3740,
+  "mass_abs_delta": 26.58,
+  "max_container_nesting": 4,
+  "modelled_monomer_count": 494,
+  "n_audit_author": 5,
+  "n_citation": 7,
   "n_container_nodes": 77,
-  "n_leaf_values": 335
+  "n_scalar_leaves": 335,
+  "polymer_entity_count": 1,
+  "polymer_molecular_weight_maximum": 26.58,
+  "rcsb_id": "1TIM",
+  "reconstructed_mass": 26.58,
+  "reported_mass": 53.16,
+  "resolution": 2.5,
+  "space_group": "P 21 21 21",
+  "struct_title": "STRUCTURE OF TRIOSE PHOSPHATE ISOMERASE FROM CHICKEN MUSCLE"
 }

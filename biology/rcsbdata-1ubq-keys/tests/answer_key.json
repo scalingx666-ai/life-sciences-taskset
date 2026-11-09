@@ -1,10 +1,27 @@
 {
-  "n_dict_values": 11,
-  "n_list_values": 19,
-  "n_null_values": 0,
-  "n_scalar_values": 1,
+  "all_entry_ids_equal": true,
+  "all_pubmed_ids_equal": true,
+  "keywords_pdbx": "CHROMOSOMAL PROTEIN",
+  "keywords_pdbx_equals_text": true,
+  "keywords_text": "CHROMOSOMAL PROTEIN",
+  "n_audit_revision_group": 5,
+  "n_audit_revision_history": 4,
+  "n_citation": 5,
+  "n_external_references": 1,
+  "n_primary_authors": 3,
   "n_top_level_keys": 31,
-  "top_level_keys": [
+  "primary_authors": [
+    "Vijay-Kumar, S.",
+    "Bugg, C.E.",
+    "Cook, W.J."
+  ],
+  "primary_citation_pubmed": 3041007,
+  "rcsb_id": "1UBQ",
+  "resolution": 1.8,
+  "software_programs_combined": [
+    "PROLSQ"
+  ],
+  "top_level_keys_sorted": [
     "audit_author",
     "cell",
     "citation",
@@ -36,5 +53,10 @@
     "struct",
     "struct_keywords",
     "symmetry"
-  ]
+  ],
+  "top_level_type_counts": {
+    "dict": 11,
+    "list": 19,
+    "str": 1
+  }
 }

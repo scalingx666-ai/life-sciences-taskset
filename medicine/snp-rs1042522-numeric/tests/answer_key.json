@@ -1,25 +1,30 @@
 {
-  "n_numeric_scalars": 4,
-  "numeric_max": 1042522.0,
-  "numeric_mean": 263092.75,
-  "numeric_min": 86.0,
-  "numeric_sum": 1052371.0,
-  "numeric_values": [
-    [
-      "result.1042522.orig_build",
-      86.0
-    ],
-    [
-      "result.1042522.snp_id",
-      1042522.0
-    ],
-    [
-      "result.1042522.tax_id",
-      9606.0
-    ],
-    [
-      "result.1042522.upd_build",
-      157.0
-    ]
-  ]
+  "build_gap": 71,
+  "chromosome": "17",
+  "current_position": 7676154,
+  "distinct_minor_alleles": [
+    "C",
+    "G",
+    "T"
+  ],
+  "maf_max": 0.495114,
+  "maf_mean": 0.327125,
+  "maf_min": 0.0,
+  "n_clinical_labels": 5,
+  "n_distinct_minor_alleles": 3,
+  "n_fxn_labels": 4,
+  "n_handles": 86,
+  "n_spdi_items": 3,
+  "n_ss_ids": 198,
+  "n_studies": 25,
+  "orig_build": 86,
+  "position_shift": 96682,
+  "prev_assembly_position": 7579472,
+  "spdi_alt_alleles": [
+    "A",
+    "C",
+    "T"
+  ],
+  "spdi_ref_allele": "G",
+  "upd_build": 157
 }

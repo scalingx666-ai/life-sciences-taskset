@@ -1,9 +1,54 @@
 {
-  "n_top_level_keys": 1,
-  "type_histogram": {
-    "dict": 1
+  "all_scalar_counters_int": true,
+  "counters_value_types": {
+    "domain_architectures": "int",
+    "interactions": "int",
+    "matches": "int",
+    "pathways": "int",
+    "proteins": "int",
+    "proteomes": "int",
+    "sets": "int",
+    "structural_models": "dict",
+    "structures": "int",
+    "subfamilies": "int",
+    "taxa": "int"
   },
-  "type_of_each_key": {
-    "metadata": "dict"
-  }
+  "go_category_codes": [
+    "C",
+    "F",
+    "P"
+  ],
+  "go_terms_count": 3,
+  "metadata_field_types": {
+    "accession": "str",
+    "counters": "dict",
+    "cross_references": "dict",
+    "description": "list",
+    "entry_annotations": "dict",
+    "entry_id": "null",
+    "go_terms": "list",
+    "hierarchy": "dict",
+    "integrated": "null",
+    "is_llm": "bool",
+    "is_reviewed_llm": "bool",
+    "is_updated_llm": "bool",
+    "literature": "dict",
+    "member_databases": "dict",
+    "name": "dict",
+    "overlaps_with": "null",
+    "representative_structure": "dict",
+    "set_info": "null",
+    "source_database": "str",
+    "type": "str",
+    "wikipedia": "null"
+  },
+  "metadata_type_counts": {
+    "bool": 3,
+    "dict": 8,
+    "list": 2,
+    "null": 5,
+    "str": 3
+  },
+  "n_metadata_fields": 21,
+  "n_null_fields": 5
 }

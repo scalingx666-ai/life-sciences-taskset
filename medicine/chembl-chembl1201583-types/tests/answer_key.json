@@ -1,48 +1,65 @@
 {
-  "n_top_level_keys": 35,
-  "type_histogram": {
-    "bool": 6,
-    "dict": 2,
-    "int": 12,
-    "list": 3,
-    "null": 3,
-    "str": 9
+  "administration_flags": {
+    "dosed_ingredient": true,
+    "oral": false,
+    "parenteral": true,
+    "topical": false
   },
-  "type_of_each_key": {
-    "atc_classifications": "list",
-    "availability_type": "int",
-    "biotherapeutic": "dict",
-    "black_box_warning": "int",
-    "chemical_probe": "int",
-    "chirality": "int",
-    "cross_references": "list",
-    "dosed_ingredient": "bool",
-    "first_approval": "int",
-    "first_in_class": "int",
-    "helm_notation": "str",
-    "inorganic_flag": "int",
-    "max_phase": "str",
-    "molecule_chembl_id": "str",
-    "molecule_hierarchy": "dict",
-    "molecule_properties": "null",
-    "molecule_structures": "null",
-    "molecule_synonyms": "list",
-    "molecule_type": "str",
-    "natural_product": "int",
-    "oral": "bool",
-    "orphan": "int",
-    "parenteral": "bool",
-    "polymer_flag": "int",
-    "pref_name": "str",
-    "prodrug": "int",
-    "structure_type": "str",
-    "therapeutic_flag": "bool",
-    "topical": "bool",
-    "usan_stem": "str",
-    "usan_stem_definition": "str",
-    "usan_substem": "str",
-    "usan_year": "null",
-    "veterinary": "int",
-    "withdrawn_flag": "bool"
+  "atc_codes": [
+    "L01FG01",
+    "S01LA08"
+  ],
+  "biocomponent_component_types": [
+    "Protein"
+  ],
+  "biocomponent_descriptions": [
+    "Light chain",
+    "Sequence"
+  ],
+  "biocomponent_sequence_lengths": {
+    "Light chain": 214,
+    "Sequence": 231
+  },
+  "black_box_warning": 0,
+  "first_approval_year": 2004,
+  "has_molecule_structures": false,
+  "has_small_molecule_properties": false,
+  "helm_has_disulfide_links": true,
+  "helm_n_peptides_gt_biocomponents": true,
+  "helm_peptide_ids": [
+    "PEPTIDE1",
+    "PEPTIDE2",
+    "PEPTIDE3",
+    "PEPTIDE4"
+  ],
+  "max_phase": 4.0,
+  "molecule_type": "Antibody",
+  "n_biocomponents": 2,
+  "n_cross_references": 15,
+  "n_helm_peptides": 4,
+  "n_synonyms": 95,
+  "pref_name": "BEVACIZUMAB",
+  "structure_type": "SEQ",
+  "synonym_type_counts": {
+    "ATC": 1,
+    "BNF": 1,
+    "EMA": 1,
+    "FDA": 1,
+    "INN": 2,
+    "JAN": 1,
+    "MERCK_INDEX": 1,
+    "OTHER": 40,
+    "RESEARCH_CODE": 33,
+    "TRADE_NAME": 12,
+    "USAN": 1,
+    "USP": 1
+  },
+  "usan_stem": "-mab; -mab",
+  "usan_stem_definition": "monoclonal antibodies: fully human; monoclonal antibodies: humanized",
+  "usan_substem": "-mab (-umab); -mab (-zumab)",
+  "withdrawn_flag": false,
+  "xref_source_counts": {
+    "DailyMed": 3,
+    "EMA": 12
   }
 }

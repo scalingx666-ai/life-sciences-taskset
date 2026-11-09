@@ -1,7 +1,57 @@
 {
-  "column_count_consistent": true,
-  "n_columns_first_row": 11,
-  "n_columns_mode": 11,
-  "n_malformed_rows": 0,
-  "n_rows": 214
+  "class_counts": [
+    [
+      1,
+      70
+    ],
+    [
+      2,
+      76
+    ],
+    [
+      3,
+      17
+    ],
+    [
+      5,
+      13
+    ],
+    [
+      6,
+      9
+    ],
+    [
+      7,
+      29
+    ]
+  ],
+  "class_label_set": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    7
+  ],
+  "column_means": [
+    1.518365,
+    13.40785,
+    2.684533,
+    1.444907,
+    72.650935,
+    0.497056,
+    8.956963,
+    0.175047,
+    0.057009
+  ],
+  "constant_columns": 0,
+  "grand_mean": 11.265852,
+  "id_max": 214,
+  "id_min": 1,
+  "max_column_variance": 2.070818,
+  "max_column_variance_column": 4,
+  "n_rows": 214,
+  "nonnegative_columns": 9,
+  "total_columns": 11,
+  "zero_cells": 392
 }

@@ -1,7 +1,12 @@
 {
-  "alphabet_size": 4,
-  "n_ambiguous": 0,
-  "n_fasta_headers": 0,
-  "n_sequence_lines": 1,
+  "cpg_count": 1909,
+  "cpg_per_kb": 15.156327,
+  "first_base": "A",
+  "last_base": "A",
+  "length_mod_3": 2,
+  "longest_homopolymer_base": "A",
+  "longest_homopolymer_run": 27,
+  "n_100bp_windows": 125855,
+  "n_lines": 1,
   "sequence_length": 125954
 }

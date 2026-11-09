@@ -1,9 +1,14 @@
 {
-  "argmax_window_start": 51,
-  "n_windows": 357,
-  "window_gc_max": 0.16,
-  "window_gc_mean": 0.108011,
-  "window_gc_min": 0.02,
-  "window_gc_std": 0.038802,
-  "window_size": 50
+  "aromatic_to_hydrophobic_ratio": 0.235669,
+  "kr_count": 44,
+  "kr_fraction": 0.108374,
+  "molecular_weight_da": 45205.30538,
+  "n_acidic": 50,
+  "n_aromatic": 37,
+  "n_basic": 44,
+  "n_charged": 94,
+  "n_glycosylation_motifs": 4,
+  "n_hydrophobic": 157,
+  "net_charge_at_ph7": -6,
+  "sequence_length": 406
 }

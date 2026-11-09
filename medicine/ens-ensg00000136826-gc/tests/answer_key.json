@@ -1,8 +1,16 @@
 {
-  "c_count": 1689,
-  "g_count": 1630,
-  "gc_content": 0.550506,
+  "at_skew": -0.01476,
+  "cpg_count": 377,
+  "cpg_observed_expected": 0.825599,
+  "gc_fraction": 0.550506,
   "gc_skew": -0.017776,
-  "non_gc_fraction": 0.449494,
-  "sequence_length": 6029
+  "max_window_gc": 0.86,
+  "max_window_start": 773,
+  "min_window_gc": 0.2,
+  "min_window_start": 5749,
+  "n_gc_rich_windows": 3601,
+  "n_windows": 5930,
+  "purine_fraction": 0.49179,
+  "sequence_length": 6029,
+  "window_width": 100
 }

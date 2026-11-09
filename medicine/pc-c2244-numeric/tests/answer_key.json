@@ -1,41 +1,33 @@
 {
-  "n_numeric_scalars": 8,
-  "numeric_max": 2244.0,
-  "numeric_mean": 317.725,
-  "numeric_min": 1.0,
-  "numeric_sum": 2541.8,
-  "numeric_values": [
-    [
-      "PropertyTable.Properties[0].CID",
-      2244.0
-    ],
-    [
-      "PropertyTable.Properties[0].Complexity",
-      212.0
-    ],
-    [
-      "PropertyTable.Properties[0].HBondAcceptorCount",
-      4.0
-    ],
-    [
-      "PropertyTable.Properties[0].HBondDonorCount",
-      1.0
-    ],
-    [
-      "PropertyTable.Properties[0].HeavyAtomCount",
-      13.0
-    ],
-    [
-      "PropertyTable.Properties[0].RotatableBondCount",
-      3.0
-    ],
-    [
-      "PropertyTable.Properties[0].TPSA",
-      63.6
-    ],
-    [
-      "PropertyTable.Properties[0].XLogP",
-      1.2
-    ]
-  ]
+  "carbon_mass_fraction": 0.60002,
+  "cid": 2244,
+  "degree_of_unsaturation": 6.0,
+  "element_counts": {
+    "C": 9,
+    "H": 8,
+    "O": 4
+  },
+  "hba": 4,
+  "hbd": 1,
+  "hydrogen_mass_fraction": 0.04476,
+  "inchikey_first_block": "BSYNRYMUTXBXSQ",
+  "mass_fraction": {
+    "C": 0.60002,
+    "H": 0.04476,
+    "O": 0.35522
+  },
+  "mass_partition": {
+    "C": 108.099,
+    "H": 8.064,
+    "O": 63.996
+  },
+  "mass_total_from_formula": 180.159,
+  "molecular_formula": "C9H8O4",
+  "molecular_weight_reported": 180.16,
+  "molecular_weight_residual": 0.001,
+  "oxygen_mass_fraction": 0.35522,
+  "oxygen_to_carbon_mass_ratio": 0.592013,
+  "rotatable_bonds": 3,
+  "tpsa": 63.6,
+  "xlogp": 1.2
 }

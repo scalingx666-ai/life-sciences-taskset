@@ -1,13 +1,33 @@
 {
-  "deepest_path": "result.334.genes.0.gene_id",
-  "depth_histogram": {
-    "1": 1,
-    "2": 2,
-    "3": 2,
-    "4": 2,
-    "5": 12
-  },
-  "max_nesting_depth": 6,
-  "n_container_nodes": 19,
-  "n_leaf_values": 57
+  "clinical_significance_labels": [
+    "likely-benign",
+    "not-provided",
+    "other",
+    "pathogenic",
+    "protective"
+  ],
+  "container_depth": 5,
+  "docsum_segment_keys": [
+    "HGVS",
+    "SEQ",
+    "LEN",
+    "GENE"
+  ],
+  "fxn_class_labels": [
+    "coding_sequence_variant",
+    "missense_variant"
+  ],
+  "maf_max": 0.5,
+  "maf_mean": 0.057753,
+  "maf_min": 0.0,
+  "n_docsum_segments": 4,
+  "n_hgvs_expressions": 27,
+  "n_nonzero_studies": 10,
+  "n_population_studies": 11,
+  "n_zero_studies": 1,
+  "observed_minor_alleles": [
+    "A",
+    "G",
+    "T"
+  ]
 }

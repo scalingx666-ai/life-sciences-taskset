@@ -1,69 +1,83 @@
 {
-  "n_atom_records": 58870,
-  "n_chains": 21,
-  "n_hetatm_records": 196,
-  "n_residues": 8015,
-  "residue_counts": {
-    "ALA": 1029,
-    "ARG": 343,
-    "ASN": 287,
-    "ASP": 504,
-    "CYS": 42,
-    "GLN": 224,
-    "GLU": 714,
-    "GLY": 770,
-    "HIS": 21,
-    "ILE": 518,
-    "LEU": 623,
-    "LYS": 602,
-    "MET": 252,
-    "PHE": 105,
-    "PRO": 210,
-    "SER": 280,
-    "THR": 483,
-    "TYR": 105,
-    "VAL": 903
+  "atom_element_counts": {
+    "C": 36498,
+    "N": 10094,
+    "O": 11795,
+    "S": 287
   },
-  "top_residues": [
-    [
-      "ALA",
-      1029
-    ],
-    [
-      "VAL",
-      903
-    ],
-    [
-      "GLY",
-      770
-    ],
-    [
-      "GLU",
-      714
-    ],
-    [
-      "LEU",
-      623
-    ],
-    [
-      "LYS",
-      602
-    ],
-    [
-      "ILE",
-      518
-    ],
-    [
-      "ASP",
-      504
-    ],
-    [
-      "THR",
-      483
-    ],
-    [
-      "ARG",
-      343
-    ]
-  ]
+  "chain_ids": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N",
+    "O",
+    "P",
+    "Q",
+    "R",
+    "S",
+    "T",
+    "U"
+  ],
+  "classification": "COMPLEX (GROEL/GROES)",
+  "deposition_date": "08-JUL-97",
+  "experimental_method": "X-RAY DIFFRACTION",
+  "has_single_model": true,
+  "hetatm_residue_counts": {
+    "ADP": 189,
+    "MG": 7
+  },
+  "n_atom_records": 58674,
+  "n_chains": 21,
+  "n_dbref_records": 21,
+  "n_helix_records": 279,
+  "n_hetatm_records": 196,
+  "n_hetatm_residue_types": 2,
+  "n_large_chains": 14,
+  "n_model_records": 0,
+  "n_sheet_records": 272,
+  "n_small_chains": 7,
+  "n_ter_records": 21,
+  "pdb_id": "1AON",
+  "per_chain_atom_counts": {
+    "A": 3808,
+    "B": 3808,
+    "C": 3808,
+    "D": 3808,
+    "E": 3808,
+    "F": 3808,
+    "G": 3808,
+    "H": 3849,
+    "I": 3849,
+    "J": 3849,
+    "K": 3849,
+    "L": 3849,
+    "M": 3849,
+    "N": 3849,
+    "O": 725,
+    "P": 725,
+    "Q": 725,
+    "R": 725,
+    "S": 725,
+    "T": 725,
+    "U": 725
+  },
+  "resolution_angstrom": 3.0,
+  "title_first_line": "CRYSTAL STRUCTURE OF THE ASYMMETRIC CHAPERONIN COMPLEX",
+  "top5_resnames": {
+    "ALA": 5152,
+    "GLU": 6370,
+    "LEU": 4984,
+    "LYS": 5362,
+    "VAL": 6321
+  }
 }

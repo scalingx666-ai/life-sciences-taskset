@@ -1,17 +1,21 @@
 {
-  "composition_counts": {
+  "a_minus_t": -2382,
+  "at_fraction": 0.631048,
+  "at_skew": -0.008802,
+  "base_composition": {
     "A": 134122,
     "C": 77176,
     "G": 81050,
+    "N": 0,
     "T": 136504
   },
-  "composition_frequencies": {
-    "A": 0.312747,
-    "C": 0.17996,
-    "G": 0.188993,
-    "T": 0.318301
-  },
-  "most_common_symbol": "T",
-  "sequence_length": 428852,
-  "shannon_entropy_bits": 1.94967
+  "g_minus_c": 3874,
+  "gc_fraction": 0.368952,
+  "gc_skew": 0.024484,
+  "least_abundant_base": "C",
+  "most_abundant_base": "T",
+  "n_non_acgt": 0,
+  "purine_fraction": 0.50174,
+  "pyrimidine_fraction": 0.49826,
+  "sequence_length": 428852
 }

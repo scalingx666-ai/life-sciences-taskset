@@ -1,48 +1,12 @@
 {
-  "bigram_entropy_bits": 7.348681,
-  "distinct_bigrams": 179,
-  "n_bigrams": 260,
+  "global_mean_hydropathy": -0.536398,
+  "max_window_mean": 0.288,
+  "max_window_start": 118,
+  "min_window_mean": -1.244,
+  "min_window_start": 3,
+  "most_frequent_residue": "S",
+  "n_hydrophobic_residues": 81,
+  "n_windows": 212,
   "sequence_length": 261,
-  "top_bigrams": [
-    [
-      "SL",
-      5
-    ],
-    [
-      "SV",
-      4
-    ],
-    [
-      "AS",
-      3
-    ],
-    [
-      "DN",
-      3
-    ],
-    [
-      "FH",
-      3
-    ],
-    [
-      "GS",
-      3
-    ],
-    [
-      "KG",
-      3
-    ],
-    [
-      "LA",
-      3
-    ],
-    [
-      "LK",
-      3
-    ],
-    [
-      "SE",
-      3
-    ]
-  ]
+  "window_width": 50
 }

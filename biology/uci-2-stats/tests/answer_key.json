@@ -1,59 +1,36 @@
 {
-  "column_stats": {
-    "0": {
-      "count": 32561,
-      "max": 90.0,
-      "mean": 38.581647,
-      "min": 17.0,
-      "std": 13.640223
-    },
-    "10": {
-      "count": 32561,
-      "max": 99999.0,
-      "mean": 1077.648844,
-      "min": 0.0,
-      "std": 7385.178677
-    },
-    "11": {
-      "count": 32561,
-      "max": 4356.0,
-      "mean": 87.30383,
-      "min": 0.0,
-      "std": 402.954031
-    },
-    "12": {
-      "count": 32561,
-      "max": 99.0,
-      "mean": 40.437456,
-      "min": 1.0,
-      "std": 12.347239
-    },
-    "2": {
-      "count": 32561,
-      "max": 1484705.0,
-      "mean": 189778.366512,
-      "min": 12285.0,
-      "std": 105548.356881
-    },
-    "4": {
-      "count": 32561,
-      "max": 16.0,
-      "mean": 10.080679,
-      "min": 1.0,
-      "std": 2.572681
-    }
-  },
-  "grand_max": 1484705.0,
-  "grand_mean": 31838.736495,
-  "grand_min": 0.0,
-  "n_numeric_columns": 6,
+  "age_max": 90,
+  "age_mean": 38.581647,
+  "age_min": 17,
+  "capital_gain_positive_rows": 2712,
+  "education_num_mean": 10.080679,
+  "hours_per_week_mean": 40.437456,
+  "income_label_counts": [
+    [
+      "<=50K",
+      24720
+    ],
+    [
+      ">50K",
+      7841
+    ]
+  ],
+  "missing_by_column": [
+    [
+      2,
+      1836
+    ],
+    [
+      7,
+      1843
+    ],
+    [
+      14,
+      583
+    ]
+  ],
+  "missing_sentinel_total": 4262,
+  "n_columns": 15,
   "n_rows": 32561,
-  "numeric_column_indices": [
-    0,
-    2,
-    4,
-    10,
-    11,
-    12
-  ]
+  "rows_with_any_missing": 2399
 }

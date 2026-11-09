@@ -1,24 +1,66 @@
 {
-  "bbox_extent": [
-    29.928,
-    30.137,
-    26.6
+  "bounding_box_volume": 21431.488,
+  "ca_end_to_end_distance": 22.408925,
+  "ca_first_resseq": 3,
+  "ca_first_xyz": [
+    3.22,
+    44.968,
+    51.871
   ],
-  "bbox_max": [
-    11.574,
-    51.432,
-    53.291
+  "ca_last_resseq": 56,
+  "ca_last_xyz": [
+    -16.251,
+    35.744,
+    45.71
   ],
-  "bbox_min": [
-    -18.354,
-    21.295,
-    26.691
+  "ca_mean_step": 3.796532,
+  "ca_total_path_length": 201.216197,
+  "centroid_x": -2.699897,
+  "centroid_y": 36.249871,
+  "centroid_z": 40.916762,
+  "chain_ids": [
+    "A"
   ],
-  "centroid": [
-    -2.768782,
-    36.288323,
-    40.79222
-  ],
-  "n_atom_records": 499,
-  "radius_of_gyration": 10.526233
+  "element_counts": {
+    "C": 289,
+    "N": 95,
+    "O": 82
+  },
+  "experimental_method": "X-RAY DIFFRACTION",
+  "hetatm_resname_counts": {
+    "HOH": 33
+  },
+  "max_ca_step": 3.86211,
+  "min_ca_step": 3.740656,
+  "n_atom": 466,
+  "n_ca": 54,
+  "n_helix": 3,
+  "n_hetatm": 33,
+  "n_sheet": 0,
+  "radius_of_gyration": 10.375839,
+  "resname_counts": {
+    "ALA": 20,
+    "ARG": 99,
+    "ASN": 32,
+    "GLN": 45,
+    "GLU": 54,
+    "GLY": 4,
+    "ILE": 24,
+    "LEU": 48,
+    "LYS": 36,
+    "PHE": 33,
+    "PRO": 7,
+    "SER": 24,
+    "THR": 14,
+    "TRP": 14,
+    "TYR": 12
+  },
+  "resolution_angstrom": 2.1,
+  "seqres_length": 54,
+  "x_max": 9.466,
+  "x_min": -18.354,
+  "y_max": 50.256,
+  "y_min": 21.295,
+  "z_max": 53.291,
+  "z_min": 26.691
 }

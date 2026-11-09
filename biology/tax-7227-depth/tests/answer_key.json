@@ -1,11 +1,22 @@
 {
-  "deepest_path": "result.7227.akataxid",
-  "depth_histogram": {
-    "1": 1,
-    "2": 2,
-    "3": 2
-  },
-  "max_nesting_depth": 4,
+  "genbankdivision": "Invertebrates",
+  "header_type": "esummary",
+  "header_version": "0.3",
+  "max_container_nesting": 3,
+  "modification_year": 2025,
   "n_container_nodes": 5,
-  "n_leaf_values": 16
+  "n_organism_fields": 13,
+  "n_scalar_leaves": 16,
+  "n_uids": 1,
+  "organism_taxid": 7227,
+  "rank": "species",
+  "result_top_level_keys": [
+    "7227",
+    "uids"
+  ],
+  "scientificname": "Drosophila melanogaster",
+  "uid_matches_result_key": true,
+  "uids": [
+    "7227"
+  ]
 }

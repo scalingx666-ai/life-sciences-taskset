@@ -1,5 +1,6 @@
 {
-  "composition_counts": {
+  "accession": "P00918",
+  "amino_acid_composition": {
     "A": 13,
     "C": 1,
     "D": 19,
@@ -21,29 +22,30 @@
     "W": 7,
     "Y": 8
   },
-  "composition_frequencies": {
-    "A": 0.05,
-    "C": 0.003846,
-    "D": 0.073077,
-    "E": 0.05,
-    "F": 0.046154,
-    "G": 0.084615,
-    "H": 0.046154,
-    "I": 0.034615,
-    "K": 0.092308,
-    "L": 0.1,
-    "M": 0.007692,
-    "N": 0.038462,
-    "P": 0.065385,
-    "Q": 0.042308,
-    "R": 0.026923,
-    "S": 0.069231,
-    "T": 0.046154,
-    "V": 0.065385,
-    "W": 0.026923,
-    "Y": 0.030769
+  "aromatic_count": 27,
+  "charged_residue_counts": {
+    "D": 19,
+    "E": 13,
+    "K": 24,
+    "R": 7
   },
-  "most_common_symbol": "L",
+  "db": "sp",
+  "entry_name": "CAH2_HUMAN",
+  "evidence_level": 1,
+  "first_residue": "M",
+  "gene": "CA2",
+  "hydrophobic_count": 103,
+  "last_residue": "K",
+  "least_abundant_residue": "C",
+  "missing_standard_residues": [],
+  "molecular_weight_da": 29246.05568,
+  "most_abundant_residue": "L",
+  "n_histidines": 12,
+  "n_sequence_lines": 5,
+  "net_charge_at_ph7": -1,
+  "organism": "Homo sapiens",
+  "organism_taxid": 9606,
+  "protein_name": "Carbonic anhydrase 2",
   "sequence_length": 260,
-  "shannon_entropy_bits": 4.116689
+  "sequence_version": 2
 }
