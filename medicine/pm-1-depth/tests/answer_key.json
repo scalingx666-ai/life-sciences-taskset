@@ -1,0 +1,13 @@
+{
+  "deepest_path": "result.1.articleids.0.idtype",
+  "depth_histogram": {
+    "1": 1,
+    "2": 2,
+    "3": 2,
+    "4": 9,
+    "5": 9
+  },
+  "max_nesting_depth": 6,
+  "n_container_nodes": 23,
+  "n_leaf_values": 64
+}

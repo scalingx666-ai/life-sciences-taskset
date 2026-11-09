@@ -1,0 +1,14 @@
+{
+  "missing_per_column": {
+    "0": 0,
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0
+  },
+  "n_cells": 750,
+  "n_columns": 5,
+  "n_missing_total": 0,
+  "n_rows": 150,
+  "n_rows_with_missing": 0
+}

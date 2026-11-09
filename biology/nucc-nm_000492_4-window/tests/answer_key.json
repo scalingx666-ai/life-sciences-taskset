@@ -1,0 +1,9 @@
+{
+  "argmax_window_start": 20,
+  "n_windows": 6021,
+  "window_gc_max": 0.72,
+  "window_gc_mean": 0.409251,
+  "window_gc_min": 0.1,
+  "window_gc_std": 0.089788,
+  "window_size": 50
+}

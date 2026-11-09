@@ -1,0 +1,13 @@
+{
+  "deepest_path": "result.5290.genomicinfo.0.chraccver",
+  "depth_histogram": {
+    "1": 1,
+    "2": 2,
+    "3": 2,
+    "4": 4,
+    "5": 17
+  },
+  "max_nesting_depth": 6,
+  "n_container_nodes": 26,
+  "n_leaf_values": 109
+}

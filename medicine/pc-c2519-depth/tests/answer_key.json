@@ -1,0 +1,12 @@
+{
+  "deepest_path": "PropertyTable.Properties.0.CID",
+  "depth_histogram": {
+    "1": 1,
+    "2": 1,
+    "3": 1,
+    "4": 1
+  },
+  "max_nesting_depth": 5,
+  "n_container_nodes": 4,
+  "n_leaf_values": 12
+}

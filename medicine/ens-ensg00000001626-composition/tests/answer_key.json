@@ -1,0 +1,17 @@
+{
+  "composition_counts": {
+    "A": 134122,
+    "C": 77176,
+    "G": 81050,
+    "T": 136504
+  },
+  "composition_frequencies": {
+    "A": 0.312747,
+    "C": 0.17996,
+    "G": 0.188993,
+    "T": 0.318301
+  },
+  "most_common_symbol": "T",
+  "sequence_length": 428852,
+  "shannon_entropy_bits": 1.94967
+}

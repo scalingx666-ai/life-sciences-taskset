@@ -1,0 +1,48 @@
+{
+  "bigram_entropy_bits": 6.963211,
+  "distinct_bigrams": 147,
+  "n_bigrams": 266,
+  "sequence_length": 267,
+  "top_bigrams": [
+    [
+      "LE",
+      6
+    ],
+    [
+      "LR",
+      6
+    ],
+    [
+      "AL",
+      5
+    ],
+    [
+      "AR",
+      5
+    ],
+    [
+      "KL",
+      5
+    ],
+    [
+      "LA",
+      5
+    ],
+    [
+      "QE",
+      5
+    ],
+    [
+      "RQ",
+      5
+    ],
+    [
+      "EE",
+      4
+    ],
+    [
+      "EL",
+      4
+    ]
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "n_numeric_scalars": 4,
+  "numeric_max": 1042522.0,
+  "numeric_mean": 263092.75,
+  "numeric_min": 86.0,
+  "numeric_sum": 1052371.0,
+  "numeric_values": [
+    [
+      "result.1042522.orig_build",
+      86.0
+    ],
+    [
+      "result.1042522.snp_id",
+      1042522.0
+    ],
+    [
+      "result.1042522.tax_id",
+      9606.0
+    ],
+    [
+      "result.1042522.upd_build",
+      157.0
+    ]
+  ]
+}

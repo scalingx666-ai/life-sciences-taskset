@@ -1,0 +1,13 @@
+{
+  "deepest_path": "result.113488022.genes.0.gene_id",
+  "depth_histogram": {
+    "1": 1,
+    "2": 2,
+    "3": 2,
+    "4": 2,
+    "5": 3
+  },
+  "max_nesting_depth": 6,
+  "n_container_nodes": 10,
+  "n_leaf_values": 39
+}

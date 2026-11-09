@@ -1,0 +1,21 @@
+{
+  "n_numeric_scalars": 3,
+  "numeric_max": 4.0,
+  "numeric_mean": 2.666667,
+  "numeric_min": 1.0,
+  "numeric_sum": 8.0,
+  "numeric_values": [
+    [
+      "result.5.articleids[0].idtypen",
+      1.0
+    ],
+    [
+      "result.5.articleids[1].idtypen",
+      3.0
+    ],
+    [
+      "result.5.articleids[2].idtypen",
+      4.0
+    ]
+  ]
+}

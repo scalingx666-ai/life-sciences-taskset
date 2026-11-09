@@ -1,0 +1,39 @@
+{
+  "n_top_level_keys": 29,
+  "type_histogram": {
+    "dict": 11,
+    "list": 17,
+    "str": 1
+  },
+  "type_of_each_key": {
+    "audit_author": "list",
+    "cell": "dict",
+    "citation": "list",
+    "database_2": "list",
+    "diffrn": "list",
+    "diffrn_radiation": "list",
+    "entry": "dict",
+    "exptl": "list",
+    "exptl_crystal": "list",
+    "pdbx_audit_revision_category": "list",
+    "pdbx_audit_revision_details": "list",
+    "pdbx_audit_revision_group": "list",
+    "pdbx_audit_revision_history": "list",
+    "pdbx_audit_revision_item": "list",
+    "pdbx_database_status": "dict",
+    "pdbx_vrpt_summary": "dict",
+    "pdbx_vrpt_summary_geometry": "list",
+    "rcsb_accession_info": "dict",
+    "rcsb_entry_container_identifiers": "dict",
+    "rcsb_entry_info": "dict",
+    "rcsb_id": "str",
+    "rcsb_primary_citation": "dict",
+    "refine": "list",
+    "refine_hist": "list",
+    "refine_ls_restr": "list",
+    "software": "list",
+    "struct": "dict",
+    "struct_keywords": "dict",
+    "symmetry": "dict"
+  }
+}

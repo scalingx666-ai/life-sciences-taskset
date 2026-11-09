@@ -1,0 +1,48 @@
+{
+  "bigram_entropy_bits": 7.348681,
+  "distinct_bigrams": 179,
+  "n_bigrams": 260,
+  "sequence_length": 261,
+  "top_bigrams": [
+    [
+      "SL",
+      5
+    ],
+    [
+      "SV",
+      4
+    ],
+    [
+      "AS",
+      3
+    ],
+    [
+      "DN",
+      3
+    ],
+    [
+      "FH",
+      3
+    ],
+    [
+      "GS",
+      3
+    ],
+    [
+      "KG",
+      3
+    ],
+    [
+      "LA",
+      3
+    ],
+    [
+      "LK",
+      3
+    ],
+    [
+      "SE",
+      3
+    ]
+  ]
+}

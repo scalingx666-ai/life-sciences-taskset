@@ -1,0 +1,41 @@
+{
+  "n_numeric_scalars": 8,
+  "numeric_max": 441243.0,
+  "numeric_mean": 55328.525,
+  "numeric_min": 4.2,
+  "numeric_sum": 442628.2,
+  "numeric_values": [
+    [
+      "PropertyTable.Properties[0].CID",
+      441243.0
+    ],
+    [
+      "PropertyTable.Properties[0].Complexity",
+      1140.0
+    ],
+    [
+      "PropertyTable.Properties[0].HBondAcceptorCount",
+      7.0
+    ],
+    [
+      "PropertyTable.Properties[0].HBondDonorCount",
+      5.0
+    ],
+    [
+      "PropertyTable.Properties[0].HeavyAtomCount",
+      49.0
+    ],
+    [
+      "PropertyTable.Properties[0].RotatableBondCount",
+      13.0
+    ],
+    [
+      "PropertyTable.Properties[0].TPSA",
+      167.0
+    ],
+    [
+      "PropertyTable.Properties[0].XLogP",
+      4.2
+    ]
+  ]
+}

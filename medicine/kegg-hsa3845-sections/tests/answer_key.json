@@ -1,0 +1,41 @@
+{
+  "n_entry_markers": 1,
+  "n_lines_per_section": {
+    "AASEQ": 5,
+    "BRITE": 211,
+    "DBLINKS": 5,
+    "DISEASE": 31,
+    "DRUG_TARGET": 10,
+    "ENTRY": 1,
+    "MOTIF": 1,
+    "NAME": 1,
+    "NETWORK": 105,
+    "NTSEQ": 11,
+    "ORGANISM": 1,
+    "ORTHOLOGY": 1,
+    "PATHWAY": 84,
+    "POSITION": 1,
+    "STRUCTURE": 1,
+    "SYMBOL": 1
+  },
+  "n_sections": 16,
+  "section_names": [
+    "AASEQ",
+    "BRITE",
+    "DBLINKS",
+    "DISEASE",
+    "DRUG_TARGET",
+    "ENTRY",
+    "MOTIF",
+    "NAME",
+    "NETWORK",
+    "NTSEQ",
+    "ORGANISM",
+    "ORTHOLOGY",
+    "PATHWAY",
+    "POSITION",
+    "STRUCTURE",
+    "SYMBOL"
+  ],
+  "total_lines": 471
+}

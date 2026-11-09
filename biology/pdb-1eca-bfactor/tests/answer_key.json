@@ -1,0 +1,9 @@
+{
+  "bfactor_max": 42.3,
+  "bfactor_mean": 11.870826,
+  "bfactor_median": 10.46,
+  "bfactor_min": 0.0,
+  "bfactor_std": 6.047248,
+  "n_atom_records": 1187,
+  "n_atoms_bfactor_above_30": 32
+}

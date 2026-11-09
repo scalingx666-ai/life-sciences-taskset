@@ -1,0 +1,11 @@
+{
+  "deepest_path": "result.7227.akataxid",
+  "depth_histogram": {
+    "1": 1,
+    "2": 2,
+    "3": 2
+  },
+  "max_nesting_depth": 4,
+  "n_container_nodes": 5,
+  "n_leaf_values": 16
+}

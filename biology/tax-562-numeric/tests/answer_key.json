@@ -1,0 +1,13 @@
+{
+  "n_numeric_scalars": 1,
+  "numeric_max": 562.0,
+  "numeric_mean": 562.0,
+  "numeric_min": 562.0,
+  "numeric_sum": 562.0,
+  "numeric_values": [
+    [
+      "result.562.taxid",
+      562.0
+    ]
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "n_dict_values": 2,
+  "n_list_values": 0,
+  "n_null_values": 0,
+  "n_scalar_values": 0,
+  "n_top_level_keys": 2,
+  "top_level_keys": [
+    "header",
+    "result"
+  ]
+}

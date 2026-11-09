@@ -1,0 +1,12 @@
+{
+  "deepest_path": "citation.0.rcsb_authors.0",
+  "depth_histogram": {
+    "1": 1,
+    "2": 33,
+    "3": 53,
+    "4": 7
+  },
+  "max_nesting_depth": 5,
+  "n_container_nodes": 94,
+  "n_leaf_values": 353
+}

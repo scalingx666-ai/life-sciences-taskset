@@ -1,0 +1,69 @@
+{
+  "n_atom_records": 58870,
+  "n_chains": 21,
+  "n_hetatm_records": 196,
+  "n_residues": 8015,
+  "residue_counts": {
+    "ALA": 1029,
+    "ARG": 343,
+    "ASN": 287,
+    "ASP": 504,
+    "CYS": 42,
+    "GLN": 224,
+    "GLU": 714,
+    "GLY": 770,
+    "HIS": 21,
+    "ILE": 518,
+    "LEU": 623,
+    "LYS": 602,
+    "MET": 252,
+    "PHE": 105,
+    "PRO": 210,
+    "SER": 280,
+    "THR": 483,
+    "TYR": 105,
+    "VAL": 903
+  },
+  "top_residues": [
+    [
+      "ALA",
+      1029
+    ],
+    [
+      "VAL",
+      903
+    ],
+    [
+      "GLY",
+      770
+    ],
+    [
+      "GLU",
+      714
+    ],
+    [
+      "LEU",
+      623
+    ],
+    [
+      "LYS",
+      602
+    ],
+    [
+      "ILE",
+      518
+    ],
+    [
+      "ASP",
+      504
+    ],
+    [
+      "THR",
+      483
+    ],
+    [
+      "ARG",
+      343
+    ]
+  ]
+}

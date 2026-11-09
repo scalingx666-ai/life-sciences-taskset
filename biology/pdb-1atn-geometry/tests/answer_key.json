@@ -1,0 +1,12 @@
+{
+  "bbox_diagonal": 137.265792,
+  "ca_centroid": [
+    104.675432,
+    42.91558,
+    79.146052
+  ],
+  "ca_radius_of_gyration": 30.343223,
+  "dominant_extent_axis": "x",
+  "mean_ca_bfactor": 26.676471,
+  "n_ca_atoms": 629
+}

@@ -1,0 +1,11 @@
+{
+  "deepest_path": "cross_references.0.xref_id",
+  "depth_histogram": {
+    "1": 1,
+    "2": 6,
+    "3": 143
+  },
+  "max_nesting_depth": 4,
+  "n_container_nodes": 150,
+  "n_leaf_values": 480
+}

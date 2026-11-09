@@ -1,0 +1,10 @@
+{
+  "n_top_level_keys": 2,
+  "type_histogram": {
+    "dict": 2
+  },
+  "type_of_each_key": {
+    "header": "dict",
+    "result": "dict"
+  }
+}
