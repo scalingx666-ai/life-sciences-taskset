@@ -1,0 +1,1242 @@
+[
+ {
+  "mol": "CHEMBL324340",
+  "target": "Heparanase",
+  "pchembl": 5.6,
+  "value": 2500.0,
+  "assay": "CHEMBL872937",
+  "doc": "CHEMBL1146658"
+ },
+ {
+  "mol": "CHEMBL109600",
+  "target": "Heparanase",
+  "pchembl": 5.05,
+  "value": 9000.0,
+  "assay": "CHEMBL872937",
+  "doc": "CHEMBL1146658"
+ },
+ {
+  "mol": "CHEMBL357278",
+  "target": "Peroxisomal acyl-coenzyme A oxidase 1",
+  "pchembl": 5.4,
+  "value": 4000.0,
+  "assay": "CHEMBL760688",
+  "doc": "CHEMBL1148425"
+ },
+ {
+  "mol": "CHEMBL357119",
+  "target": "Peroxisomal acyl-coenzyme A oxidase 1",
+  "pchembl": 4.77,
+  "value": 17000.0,
+  "assay": "CHEMBL760688",
+  "doc": "CHEMBL1148425"
+ },
+ {
+  "mol": "CHEMBL152968",
+  "target": "Peroxisomal acyl-coenzyme A oxidase 1",
+  "pchembl": 6.75,
+  "value": 180.0,
+  "assay": "CHEMBL760688",
+  "doc": "CHEMBL1148425"
+ },
+ {
+  "mol": "CHEMBL152968",
+  "target": "Cytochrome P450 1A2",
+  "pchembl": 5.22,
+  "value": 6000.0,
+  "assay": "CHEMBL666153",
+  "doc": "CHEMBL1148425"
+ },
+ {
+  "mol": "CHEMBL152968",
+  "target": "Cytochrome P450 3A4",
+  "pchembl": 4.43,
+  "value": 37000.0,
+  "assay": "CHEMBL665756",
+  "doc": "CHEMBL1148425"
+ },
+ {
+  "mol": "CHEMBL152968",
+  "target": "Cytochrome P450 2C9",
+  "pchembl": 4.62,
+  "value": 24000.0,
+  "assay": "CHEMBL660388",
+  "doc": "CHEMBL1148425"
+ },
+ {
+  "mol": "CHEMBL305153",
+  "target": "Beta-1 adrenergic receptor",
+  "pchembl": 7.53,
+  "value": 29.4,
+  "assay": "CHEMBL650687",
+  "doc": "CHEMBL1122110"
+ },
+ {
+  "mol": "CHEMBL305153",
+  "target": "Beta-2 adrenergic receptor",
+  "pchembl": 7.51,
+  "value": 30.8,
+  "assay": "CHEMBL652388",
+  "doc": "CHEMBL1122110"
+ },
+ {
+  "mol": "CHEMBL156707",
+  "target": "Malate dehydrogenase, mitochondrial",
+  "pchembl": 5.8,
+  "value": 1584.89,
+  "assay": "CHEMBL733653",
+  "doc": "CHEMBL1122163"
+ },
+ {
+  "mol": "CHEMBL279087",
+  "target": "GABA-A receptor; anion channel",
+  "pchembl": 6.92,
+  "value": 120.0,
+  "assay": "CHEMBL650180",
+  "doc": "CHEMBL1124258"
+ },
+ {
+  "mol": "CHEMBL279969",
+  "target": "GABA-A receptor; anion channel",
+  "pchembl": 5.73,
+  "value": 1850.0,
+  "assay": "CHEMBL650180",
+  "doc": "CHEMBL1124258"
+ },
+ {
+  "mol": "CHEMBL20214",
+  "target": "GABA-A receptor; anion channel",
+  "pchembl": 7.47,
+  "value": 34.0,
+  "assay": "CHEMBL650180",
+  "doc": "CHEMBL1124258"
+ },
+ {
+  "mol": "CHEMBL277617",
+  "target": "GABA-A receptor; anion channel",
+  "pchembl": 6.97,
+  "value": 107.0,
+  "assay": "CHEMBL650180",
+  "doc": "CHEMBL1124258"
+ },
+ {
+  "mol": "CHEMBL3350133",
+  "target": "Opioid receptors; mu & kappa",
+  "pchembl": 7.66,
+  "value": 22.0,
+  "assay": "CHEMBL755012",
+  "doc": "CHEMBL1123225"
+ },
+ {
+  "mol": "CHEMBL15886",
+  "target": "Acetylcholinesterase",
+  "pchembl": 4.0,
+  "value": 100000.0,
+  "assay": "CHEMBL642843",
+  "doc": "CHEMBL1123058"
+ },
+ {
+  "mol": "CHEMBL1202755",
+  "target": "Cavia porcellus",
+  "pchembl": 5.1,
+  "value": 8000.0,
+  "assay": "CHEMBL686356",
+  "doc": "CHEMBL1123873"
+ },
+ {
+  "mol": "CHEMBL1202755",
+  "target": "Thromboxane-A synthase",
+  "pchembl": 6.0,
+  "value": 1000.0,
+  "assay": "CHEMBL808532",
+  "doc": "CHEMBL1123873"
+ },
+ {
+  "mol": "CHEMBL542565",
+  "target": "L1210",
+  "pchembl": 6.06,
+  "value": 870.0,
+  "assay": "CHEMBL706332",
+  "doc": "CHEMBL1123657"
+ },
+ {
+  "mol": "CHEMBL543512",
+  "target": "L1210",
+  "pchembl": 6.03,
+  "value": 930.0,
+  "assay": "CHEMBL706332",
+  "doc": "CHEMBL1123657"
+ },
+ {
+  "mol": "CHEMBL23228",
+  "target": "D(2) dopamine receptor",
+  "pchembl": 7.72,
+  "value": 19.0,
+  "assay": "CHEMBL670668",
+  "doc": "CHEMBL1123038"
+ },
+ {
+  "mol": "CHEMBL21222",
+  "target": "GABA-A receptor; anion channel",
+  "pchembl": 8.0,
+  "value": 10.0,
+  "assay": "CHEMBL650180",
+  "doc": "CHEMBL1124258"
+ },
+ {
+  "mol": "CHEMBL21087",
+  "target": "GABA-A receptor; anion channel",
+  "pchembl": 6.8,
+  "value": 160.0,
+  "assay": "CHEMBL650180",
+  "doc": "CHEMBL1124258"
+ },
+ {
+  "mol": "CHEMBL296346",
+  "target": "ADMET",
+  "pchembl": 5.42,
+  "value": 3800.0,
+  "assay": "CHEMBL761371",
+  "doc": "CHEMBL1131738"
+ },
+ {
+  "mol": "CHEMBL129",
+  "target": "ADMET",
+  "pchembl": 8.4,
+  "value": 4.0,
+  "assay": "CHEMBL761371",
+  "doc": "CHEMBL1131738"
+ },
+ {
+  "mol": "CHEMBL129",
+  "target": "ADMET",
+  "pchembl": 6.82,
+  "value": 150.0,
+  "assay": "CHEMBL756997",
+  "doc": "CHEMBL1131738"
+ },
+ {
+  "mol": "CHEMBL129",
+  "target": "ADMET",
+  "pchembl": 8.22,
+  "value": 6.0,
+  "assay": "CHEMBL761369",
+  "doc": "CHEMBL1131738"
+ },
+ {
+  "mol": "CHEMBL129",
+  "target": "ADMET",
+  "pchembl": 8.4,
+  "value": 4.0,
+  "assay": "CHEMBL759380",
+  "doc": "CHEMBL1131738"
+ },
+ {
+  "mol": "CHEMBL303519",
+  "target": "D(2) dopamine receptor",
+  "pchembl": 5.01,
+  "value": 9800.0,
+  "assay": "CHEMBL671073",
+  "doc": "CHEMBL1130912"
+ },
+ {
+  "mol": "CHEMBL303519",
+  "target": "D(3) dopamine receptor",
+  "pchembl": 5.25,
+  "value": 5600.0,
+  "assay": "CHEMBL670427",
+  "doc": "CHEMBL1130912"
+ },
+ {
+  "mol": "CHEMBL303519",
+  "target": "D(4) dopamine receptor",
+  "pchembl": 7.7,
+  "value": 20.0,
+  "assay": "CHEMBL676182",
+  "doc": "CHEMBL1130912"
+ },
+ {
+  "mol": "CHEMBL48946",
+  "target": "Sterol O-acyltransferase 1",
+  "pchembl": 7.39,
+  "value": 41.0,
+  "assay": "CHEMBL642849",
+  "doc": "CHEMBL1151014"
+ },
+ {
+  "mol": "CHEMBL415967",
+  "target": "Endothelin-converting enzyme 1",
+  "pchembl": 7.35,
+  "value": 45.0,
+  "assay": "CHEMBL675440",
+  "doc": "CHEMBL1129909"
+ },
+ {
+  "mol": "CHEMBL415967",
+  "target": "Neprilysin",
+  "pchembl": 8.16,
+  "value": 6.9,
+  "assay": "CHEMBL754363",
+  "doc": "CHEMBL1129909"
+ },
+ {
+  "mol": "CHEMBL50381",
+  "target": "Sterol O-acyltransferase 1",
+  "pchembl": 5.26,
+  "value": 5500.0,
+  "assay": "CHEMBL641889",
+  "doc": "CHEMBL1128039"
+ },
+ {
+  "mol": "CHEMBL431940",
+  "target": "Sterol O-acyltransferase 1",
+  "pchembl": 8.52,
+  "value": 3.0,
+  "assay": "CHEMBL638624",
+  "doc": "CHEMBL1128039"
+ },
+ {
+  "mol": "CHEMBL431940",
+  "target": "Sterol O-acyltransferase 1",
+  "pchembl": 6.35,
+  "value": 450.0,
+  "assay": "CHEMBL641889",
+  "doc": "CHEMBL1128039"
+ },
+ {
+  "mol": "CHEMBL140442",
+  "target": "Peptidyl-prolyl cis-trans isomerase FKBP1A",
+  "pchembl": 8.47,
+  "value": 3.4,
+  "assay": "CHEMBL678159",
+  "doc": "CHEMBL1131933"
+ },
+ {
+  "mol": "CHEMBL140442",
+  "target": "Unchecked",
+  "pchembl": 6.7,
+  "value": 200.0,
+  "assay": "CHEMBL699874",
+  "doc": "CHEMBL1131933"
+ },
+ {
+  "mol": "CHEMBL117716",
+  "target": "Coagulation factor X",
+  "pchembl": 7.35,
+  "value": 44.4,
+  "assay": "CHEMBL681849",
+  "doc": "CHEMBL1131910"
+ },
+ {
+  "mol": "CHEMBL117716",
+  "target": "Prothrombin",
+  "pchembl": 5.9,
+  "value": 1270.0,
+  "assay": "CHEMBL815798",
+  "doc": "CHEMBL1131910"
+ },
+ {
+  "mol": "CHEMBL117716",
+  "target": "Plasminogen",
+  "pchembl": 5.84,
+  "value": 1440.0,
+  "assay": "CHEMBL764384",
+  "doc": "CHEMBL1131910"
+ },
+ {
+  "mol": "CHEMBL117716",
+  "target": "Serine protease 1",
+  "pchembl": 7.23,
+  "value": 59.2,
+  "assay": "CHEMBL820684",
+  "doc": "CHEMBL1131910"
+ },
+ {
+  "mol": "CHEMBL345415",
+  "target": "Muscarinic acetylcholine receptor",
+  "pchembl": 6.74,
+  "value": 181.0,
+  "assay": "CHEMBL748168",
+  "doc": "CHEMBL1128636"
+ },
+ {
+  "mol": "CHEMBL345415",
+  "target": "Muscarinic acetylcholine receptor",
+  "pchembl": 8.97,
+  "value": 1.07,
+  "assay": "CHEMBL748601",
+  "doc": "CHEMBL1128636"
+ },
+ {
+  "mol": "CHEMBL326085",
+  "target": "Oxytocin receptor",
+  "pchembl": 4.68,
+  "value": 21000.0,
+  "assay": "CHEMBL760426",
+  "doc": "CHEMBL1150035"
+ },
+ {
+  "mol": "CHEMBL79591",
+  "target": "Tubulin",
+  "pchembl": 5.28,
+  "value": 5300.0,
+  "assay": "CHEMBL818975",
+  "doc": "CHEMBL1125985"
+ },
+ {
+  "mol": "CHEMBL86971",
+  "target": "H9",
+  "pchembl": 7.96,
+  "value": 10.9,
+  "assay": "CHEMBL688274",
+  "doc": "CHEMBL1130577"
+ },
+ {
+  "mol": "CHEMBL312911",
+  "target": "H9",
+  "pchembl": 7.7,
+  "value": 20.0,
+  "assay": "CHEMBL688273",
+  "doc": "CHEMBL1130577"
+ },
+ {
+  "mol": "CHEMBL78855",
+  "target": "Protein farnesyltransferase",
+  "pchembl": 5.28,
+  "value": 5200.0,
+  "assay": "CHEMBL681645",
+  "doc": "CHEMBL1127275"
+ },
+ {
+  "mol": "CHEMBL312763",
+  "target": "Oryctolagus cuniculus",
+  "pchembl": 6.47,
+  "value": 340.0,
+  "assay": "CHEMBL768220",
+  "doc": "CHEMBL1130537"
+ },
+ {
+  "mol": "CHEMBL76526",
+  "target": "HL-60",
+  "pchembl": 6.2,
+  "value": 630.0,
+  "assay": "CHEMBL689457",
+  "doc": "CHEMBL1133942"
+ },
+ {
+  "mol": "CHEMBL302455",
+  "target": "Disintegrin and metalloproteinase domain-containing protein 17",
+  "pchembl": 9.0,
+  "value": 1.0,
+  "assay": "CHEMBL819943",
+  "doc": "CHEMBL1136542"
+ },
+ {
+  "mol": "CHEMBL302455",
+  "target": "Disintegrin and metalloproteinase domain-containing protein 17",
+  "pchembl": 5.04,
+  "value": 9100.0,
+  "assay": "CHEMBL702320",
+  "doc": "CHEMBL1136542"
+ },
+ {
+  "mol": "CHEMBL60373",
+  "target": "Disintegrin and metalloproteinase domain-containing protein 17",
+  "pchembl": 5.58,
+  "value": 2650.0,
+  "assay": "CHEMBL702320",
+  "doc": "CHEMBL1136542"
+ },
+ {
+  "mol": "CHEMBL79902",
+  "target": "Phosphodiesterase 4",
+  "pchembl": 8.4,
+  "value": 4.0,
+  "assay": "CHEMBL765688",
+  "doc": "CHEMBL1136125"
+ },
+ {
+  "mol": "CHEMBL79902",
+  "target": "Phosphodiesterase 4",
+  "pchembl": 8.4,
+  "value": 3.981,
+  "assay": "CHEMBL768609",
+  "doc": "CHEMBL1136125"
+ },
+ {
+  "mol": "CHEMBL421343",
+  "target": "Phosphodiesterase 4",
+  "pchembl": 7.52,
+  "value": 30.0,
+  "assay": "CHEMBL765688",
+  "doc": "CHEMBL1136125"
+ },
+ {
+  "mol": "CHEMBL421343",
+  "target": "Phosphodiesterase 4",
+  "pchembl": 7.52,
+  "value": 30.2,
+  "assay": "CHEMBL768609",
+  "doc": "CHEMBL1136125"
+ },
+ {
+  "mol": "CHEMBL82934",
+  "target": "Phosphodiesterase 4",
+  "pchembl": 7.44,
+  "value": 36.0,
+  "assay": "CHEMBL765688",
+  "doc": "CHEMBL1136125"
+ },
+ {
+  "mol": "CHEMBL82934",
+  "target": "Phosphodiesterase 4",
+  "pchembl": 7.44,
+  "value": 36.31,
+  "assay": "CHEMBL768609",
+  "doc": "CHEMBL1136125"
+ },
+ {
+  "mol": "CHEMBL111217",
+  "target": "Retinoic acid receptor RXR-alpha",
+  "pchembl": 8.17,
+  "value": 6.8,
+  "assay": "CHEMBL656173",
+  "doc": "CHEMBL1136440"
+ },
+ {
+  "mol": "CHEMBL285848",
+  "target": "Protein farnesyltransferase",
+  "pchembl": 4.92,
+  "value": 11900.0,
+  "assay": "CHEMBL681468",
+  "doc": "CHEMBL1136425"
+ },
+ {
+  "mol": "CHEMBL342713",
+  "target": "Disintegrin and metalloproteinase domain-containing protein 17",
+  "pchembl": 6.96,
+  "value": 110.0,
+  "assay": "CHEMBL811886",
+  "doc": "CHEMBL1136470"
+ },
+ {
+  "mol": "CHEMBL68920",
+  "target": "Epidermal growth factor receptor",
+  "pchembl": 7.39,
+  "value": 41.0,
+  "assay": "CHEMBL674637",
+  "doc": "CHEMBL1134862"
+ },
+ {
+  "mol": "CHEMBL68920",
+  "target": "Vascular endothelial growth factor receptor 2",
+  "pchembl": 4.78,
+  "value": 16500.0,
+  "assay": "CHEMBL816964",
+  "doc": "CHEMBL1134862"
+ },
+ {
+  "mol": "CHEMBL68920",
+  "target": "Epidermal growth factor receptor",
+  "pchembl": 6.52,
+  "value": 300.0,
+  "assay": "CHEMBL621151",
+  "doc": "CHEMBL1134862"
+ },
+ {
+  "mol": "CHEMBL68920",
+  "target": "Receptor tyrosine-protein kinase erbB-2",
+  "pchembl": 6.52,
+  "value": 300.0,
+  "assay": "CHEMBL845865",
+  "doc": "CHEMBL1134862"
+ },
+ {
+  "mol": "CHEMBL68920",
+  "target": "Epidermal growth factor receptor",
+  "pchembl": 5.11,
+  "value": 7820.0,
+  "assay": "CHEMBL615325",
+  "doc": "CHEMBL1134862"
+ },
+ {
+  "mol": "CHEMBL68920",
+  "target": "Receptor tyrosine-protein kinase erbB-2",
+  "pchembl": 5.6,
+  "value": 2500.0,
+  "assay": "CHEMBL615491",
+  "doc": "CHEMBL1134862"
+ },
+ {
+  "mol": "CHEMBL69960",
+  "target": "Epidermal growth factor receptor",
+  "pchembl": 6.77,
+  "value": 170.0,
+  "assay": "CHEMBL674637",
+  "doc": "CHEMBL1134862"
+ },
+ {
+  "mol": "CHEMBL69960",
+  "target": "Epidermal growth factor receptor",
+  "pchembl": 7.4,
+  "value": 40.0,
+  "assay": "CHEMBL621151",
+  "doc": "CHEMBL1134862"
+ },
+ {
+  "mol": "CHEMBL69960",
+  "target": "Receptor tyrosine-protein kinase erbB-2",
+  "pchembl": 6.4,
+  "value": 400.0,
+  "assay": "CHEMBL683802",
+  "doc": "CHEMBL1134862"
+ },
+ {
+  "mol": "CHEMBL69960",
+  "target": "Epidermal growth factor receptor",
+  "pchembl": 6.36,
+  "value": 440.0,
+  "assay": "CHEMBL615325",
+  "doc": "CHEMBL1134862"
+ },
+ {
+  "mol": "CHEMBL69960",
+  "target": "Receptor tyrosine-protein kinase erbB-2",
+  "pchembl": 5.92,
+  "value": 1210.0,
+  "assay": "CHEMBL615491",
+  "doc": "CHEMBL1134862"
+ },
+ {
+  "mol": "CHEMBL27759",
+  "target": "HCT-116",
+  "pchembl": 5.27,
+  "value": 5400.0,
+  "assay": "CHEMBL685779",
+  "doc": "CHEMBL1135106"
+ },
+ {
+  "mol": "CHEMBL300266",
+  "target": "Vascular cell adhesion protein 1",
+  "pchembl": 5.22,
+  "value": 6000.0,
+  "assay": "CHEMBL818222",
+  "doc": "CHEMBL1134135"
+ },
+ {
+  "mol": "CHEMBL330643",
+  "target": "Proteinase-activated receptor 1",
+  "pchembl": 6.13,
+  "value": 734.0,
+  "assay": "CHEMBL812612",
+  "doc": "CHEMBL1133830"
+ },
+ {
+  "mol": "CHEMBL76383",
+  "target": "Plasmodium falciparum",
+  "pchembl": 4.13,
+  "value": 73500.0,
+  "assay": "CHEMBL764090",
+  "doc": "CHEMBL1134883"
+ },
+ {
+  "mol": "CHEMBL170335",
+  "target": "Endothelin-1 receptor",
+  "pchembl": 4.19,
+  "value": 65000.0,
+  "assay": "CHEMBL676566",
+  "doc": "CHEMBL1133352"
+ },
+ {
+  "mol": "CHEMBL170335",
+  "target": "Endothelin receptor type B",
+  "pchembl": 4.68,
+  "value": 21000.0,
+  "assay": "CHEMBL671538",
+  "doc": "CHEMBL1133352"
+ },
+ {
+  "mol": "CHEMBL170335",
+  "target": "Endothelin-1 receptor",
+  "pchembl": 4.21,
+  "value": 62000.0,
+  "assay": "CHEMBL681509",
+  "doc": "CHEMBL1133352"
+ },
+ {
+  "mol": "CHEMBL170335",
+  "target": "Endothelin receptor type B",
+  "pchembl": 4.39,
+  "value": 41000.0,
+  "assay": "CHEMBL676633",
+  "doc": "CHEMBL1133352"
+ },
+ {
+  "mol": "CHEMBL69638",
+  "target": "Tyrosine-protein kinase Lck",
+  "pchembl": 6.85,
+  "value": 140.0,
+  "assay": "CHEMBL842023",
+  "doc": "CHEMBL1132739"
+ },
+ {
+  "mol": "CHEMBL69638",
+  "target": "Tyrosine-protein kinase Lck",
+  "pchembl": 5.93,
+  "value": 1180.0,
+  "assay": "CHEMBL842019",
+  "doc": "CHEMBL1132739"
+ },
+ {
+  "mol": "CHEMBL69638",
+  "target": "Tyrosine-protein kinase Lck",
+  "pchembl": 5.92,
+  "value": 1200.0,
+  "assay": "CHEMBL842015",
+  "doc": "CHEMBL1132739"
+ },
+ {
+  "mol": "CHEMBL69638",
+  "target": "Vascular endothelial growth factor receptor 2",
+  "pchembl": 5.15,
+  "value": 7100.0,
+  "assay": "CHEMBL817617",
+  "doc": "CHEMBL1132739"
+ },
+ {
+  "mol": "CHEMBL69638",
+  "target": "Angiopoietin-1 receptor",
+  "pchembl": 5.47,
+  "value": 3400.0,
+  "assay": "CHEMBL847682",
+  "doc": "CHEMBL1132739"
+ },
+ {
+  "mol": "CHEMBL75193",
+  "target": "Neuropeptide Y receptor type 5",
+  "pchembl": 6.12,
+  "value": 759.0,
+  "assay": "CHEMBL750824",
+  "doc": "CHEMBL1133930"
+ },
+ {
+  "mol": "CHEMBL65614",
+  "target": "Gonadotropin-releasing hormone receptor",
+  "pchembl": 8.3,
+  "value": 5.0,
+  "assay": "CHEMBL711950",
+  "doc": "CHEMBL1134852"
+ },
+ {
+  "mol": "CHEMBL292773",
+  "target": "Gonadotropin-releasing hormone receptor",
+  "pchembl": 8.52,
+  "value": 3.0,
+  "assay": "CHEMBL711950",
+  "doc": "CHEMBL1134852"
+ },
+ {
+  "mol": "CHEMBL443325",
+  "target": "Angiotensin II receptor (AT-1) type-1",
+  "pchembl": 6.72,
+  "value": 190.0,
+  "assay": "CHEMBL647884",
+  "doc": "CHEMBL1126724"
+ },
+ {
+  "mol": "CHEMBL443325",
+  "target": "Type-2 angiotensin II receptor",
+  "pchembl": 7.64,
+  "value": 23.0,
+  "assay": "CHEMBL647843",
+  "doc": "CHEMBL1126724"
+ },
+ {
+  "mol": "CHEMBL385063",
+  "target": "Angiotensin II receptor (AT-1) type-1",
+  "pchembl": 6.17,
+  "value": 683.0,
+  "assay": "CHEMBL647884",
+  "doc": "CHEMBL1126724"
+ },
+ {
+  "mol": "CHEMBL432162",
+  "target": "Angiotensin II receptor (AT-1) type-1",
+  "pchembl": 8.28,
+  "value": 5.2,
+  "assay": "CHEMBL643602",
+  "doc": "CHEMBL1127332"
+ },
+ {
+  "mol": "CHEMBL540596",
+  "target": "Cholecystokinin receptor type A",
+  "pchembl": 8.19,
+  "value": 6.5,
+  "assay": "CHEMBL663490",
+  "doc": "CHEMBL1127663"
+ },
+ {
+  "mol": "CHEMBL540596",
+  "target": "Gastrin/cholecystokinin type B receptor",
+  "pchembl": 7.57,
+  "value": 26.75,
+  "assay": "CHEMBL657472",
+  "doc": "CHEMBL1127663"
+ },
+ {
+  "mol": "CHEMBL166062",
+  "target": "Unchecked",
+  "pchembl": 5.78,
+  "value": 1650.0,
+  "assay": "CHEMBL818944",
+  "doc": "CHEMBL1126622"
+ },
+ {
+  "mol": "CHEMBL166062",
+  "target": "OVCAR-3",
+  "pchembl": 5.93,
+  "value": 1185.0,
+  "assay": "CHEMBL744193",
+  "doc": "CHEMBL1126622"
+ },
+ {
+  "mol": "CHEMBL166062",
+  "target": "L1210",
+  "pchembl": 6.2,
+  "value": 635.0,
+  "assay": "CHEMBL707508",
+  "doc": "CHEMBL1126622"
+ },
+ {
+  "mol": "CHEMBL166062",
+  "target": "L1210",
+  "pchembl": 6.21,
+  "value": 609.0,
+  "assay": "CHEMBL707507",
+  "doc": "CHEMBL1126622"
+ },
+ {
+  "mol": "CHEMBL166062",
+  "target": "NON-PROTEIN TARGET",
+  "pchembl": 5.06,
+  "value": 8760.0,
+  "assay": "CHEMBL824117",
+  "doc": "CHEMBL1126622"
+ },
+ {
+  "mol": "CHEMBL163792",
+  "target": "Unchecked",
+  "pchembl": 5.6,
+  "value": 2493.0,
+  "assay": "CHEMBL818944",
+  "doc": "CHEMBL1126622"
+ },
+ {
+  "mol": "CHEMBL163792",
+  "target": "OVCAR-3",
+  "pchembl": 5.71,
+  "value": 1939.0,
+  "assay": "CHEMBL744193",
+  "doc": "CHEMBL1126622"
+ },
+ {
+  "mol": "CHEMBL163792",
+  "target": "L1210",
+  "pchembl": 6.26,
+  "value": 544.0,
+  "assay": "CHEMBL707508",
+  "doc": "CHEMBL1126622"
+ },
+ {
+  "mol": "CHEMBL163792",
+  "target": "L1210",
+  "pchembl": 6.26,
+  "value": 554.0,
+  "assay": "CHEMBL707507",
+  "doc": "CHEMBL1126622"
+ },
+ {
+  "mol": "CHEMBL556829",
+  "target": "Unchecked",
+  "pchembl": 6.66,
+  "value": 218.0,
+  "assay": "CHEMBL784482",
+  "doc": "CHEMBL1126711"
+ },
+ {
+  "mol": "CHEMBL1203068",
+  "target": "Phosphodiesterase 3",
+  "pchembl": 8.29,
+  "value": 5.14,
+  "assay": "CHEMBL768652",
+  "doc": "CHEMBL1126868"
+ },
+ {
+  "mol": "CHEMBL1203068",
+  "target": "Homo sapiens",
+  "pchembl": 9.8,
+  "value": 0.16,
+  "assay": "CHEMBL763979",
+  "doc": "CHEMBL1126868"
+ },
+ {
+  "mol": "CHEMBL1203068",
+  "target": "Homo sapiens",
+  "pchembl": 10.4,
+  "value": 0.04,
+  "assay": "CHEMBL763981",
+  "doc": "CHEMBL1126868"
+ },
+ {
+  "mol": "CHEMBL112418",
+  "target": "Homo sapiens",
+  "pchembl": 9.39,
+  "value": 0.41,
+  "assay": "CHEMBL763979",
+  "doc": "CHEMBL1126868"
+ },
+ {
+  "mol": "CHEMBL1203045",
+  "target": "Homo sapiens",
+  "pchembl": 8.27,
+  "value": 5.33,
+  "assay": "CHEMBL763979",
+  "doc": "CHEMBL1126868"
+ },
+ {
+  "mol": "CHEMBL6202",
+  "target": "Platelet-activating factor receptor",
+  "pchembl": 6.85,
+  "value": 140.0,
+  "assay": "CHEMBL770633",
+  "doc": "CHEMBL1126646"
+ },
+ {
+  "mol": "CHEMBL18501",
+  "target": "Sodium-dependent serotonin transporter",
+  "pchembl": 8.85,
+  "value": 1.4,
+  "assay": "CHEMBL804187",
+  "doc": "CHEMBL1126652"
+ },
+ {
+  "mol": "CHEMBL18501",
+  "target": "Adrenergic receptor alpha-1",
+  "pchembl": 8.1,
+  "value": 8.0,
+  "assay": "CHEMBL822780",
+  "doc": "CHEMBL1126652"
+ },
+ {
+  "mol": "CHEMBL19226",
+  "target": "Sodium-dependent serotonin transporter",
+  "pchembl": 7.46,
+  "value": 35.0,
+  "assay": "CHEMBL804187",
+  "doc": "CHEMBL1126652"
+ },
+ {
+  "mol": "CHEMBL19226",
+  "target": "Serotonin 2 (5-HT2) receptor",
+  "pchembl": 7.0,
+  "value": 100.0,
+  "assay": "CHEMBL617154",
+  "doc": "CHEMBL1126652"
+ },
+ {
+  "mol": "CHEMBL352998",
+  "target": "Homo sapiens",
+  "pchembl": 6.64,
+  "value": 230.0,
+  "assay": "CHEMBL764816",
+  "doc": "CHEMBL1127687"
+ },
+ {
+  "mol": "CHEMBL354415",
+  "target": "Homo sapiens",
+  "pchembl": 7.92,
+  "value": 12.0,
+  "assay": "CHEMBL764816",
+  "doc": "CHEMBL1127687"
+ },
+ {
+  "mol": "CHEMBL265475",
+  "target": "Homo sapiens",
+  "pchembl": 8.3,
+  "value": 5.0,
+  "assay": "CHEMBL764816",
+  "doc": "CHEMBL1127687"
+ },
+ {
+  "mol": "CHEMBL56",
+  "target": "5-hydroxytryptamine receptor 1A",
+  "pchembl": 8.96,
+  "value": 1.1,
+  "assay": "CHEMBL615908",
+  "doc": "CHEMBL1127502"
+ },
+ {
+  "mol": "CHEMBL278572",
+  "target": "Sodium-dependent dopamine transporter",
+  "pchembl": 8.27,
+  "value": 5.34,
+  "assay": "CHEMBL670040",
+  "doc": "CHEMBL1127821"
+ },
+ {
+  "mol": "CHEMBL2112023",
+  "target": "Neprilysin",
+  "pchembl": 5.75,
+  "value": 1800.0,
+  "assay": "CHEMBL747373",
+  "doc": "CHEMBL1127330"
+ },
+ {
+  "mol": "CHEMBL304930",
+  "target": "Sterol O-acyltransferase 1",
+  "pchembl": 7.82,
+  "value": 15.0,
+  "assay": "CHEMBL645934",
+  "doc": "CHEMBL1127563"
+ },
+ {
+  "mol": "CHEMBL38747",
+  "target": "D(2) dopamine receptor",
+  "pchembl": 6.77,
+  "value": 170.0,
+  "assay": "CHEMBL675883",
+  "doc": "CHEMBL1129281"
+ },
+ {
+  "mol": "CHEMBL38747",
+  "target": "5-hydroxytryptamine receptor 1A",
+  "pchembl": 7.27,
+  "value": 54.0,
+  "assay": "CHEMBL615901",
+  "doc": "CHEMBL1129281"
+ },
+ {
+  "mol": "CHEMBL38747",
+  "target": "Serotonin 2 (5-HT2) receptor",
+  "pchembl": 8.27,
+  "value": 5.4,
+  "assay": "CHEMBL884530",
+  "doc": "CHEMBL1129281"
+ },
+ {
+  "mol": "CHEMBL38409",
+  "target": "D(2) dopamine receptor",
+  "pchembl": 8.04,
+  "value": 9.2,
+  "assay": "CHEMBL675883",
+  "doc": "CHEMBL1129281"
+ },
+ {
+  "mol": "CHEMBL38409",
+  "target": "5-hydroxytryptamine receptor 1A",
+  "pchembl": 9.12,
+  "value": 0.76,
+  "assay": "CHEMBL615901",
+  "doc": "CHEMBL1129281"
+ },
+ {
+  "mol": "CHEMBL38409",
+  "target": "Serotonin 2 (5-HT2) receptor",
+  "pchembl": 9.16,
+  "value": 0.69,
+  "assay": "CHEMBL884530",
+  "doc": "CHEMBL1129281"
+ },
+ {
+  "mol": "CHEMBL20042",
+  "target": "GABA-A receptor; anion channel",
+  "pchembl": 9.22,
+  "value": 0.5998,
+  "assay": "CHEMBL651677",
+  "doc": "CHEMBL1129323"
+ },
+ {
+  "mol": "CHEMBL55630",
+  "target": "GABA-A receptor; anion channel",
+  "pchembl": 5.77,
+  "value": 1698.24,
+  "assay": "CHEMBL651677",
+  "doc": "CHEMBL1129323"
+ },
+ {
+  "mol": "CHEMBL64616",
+  "target": "Xanthine dehydrogenase/oxidase",
+  "pchembl": 4.52,
+  "value": 30500.0,
+  "assay": "CHEMBL823474",
+  "doc": "CHEMBL1129352"
+ },
+ {
+  "mol": "CHEMBL108102",
+  "target": "Human immunodeficiency virus type 1 protease",
+  "pchembl": 7.38,
+  "value": 42.0,
+  "assay": "CHEMBL769366",
+  "doc": "CHEMBL1129270"
+ },
+ {
+  "mol": "CHEMBL121627",
+  "target": "Phospholipase A2",
+  "pchembl": 8.1,
+  "value": 8.0,
+  "assay": "CHEMBL760952",
+  "doc": "CHEMBL1129638"
+ },
+ {
+  "mol": "CHEMBL121627",
+  "target": "Phospholipase A2",
+  "pchembl": 8.85,
+  "value": 1.4,
+  "assay": "CHEMBL760953",
+  "doc": "CHEMBL1129638"
+ },
+ {
+  "mol": "CHEMBL140210",
+  "target": "Dihydroorotate dehydrogenase (quinone), mitochondrial",
+  "pchembl": 4.43,
+  "value": 37200.0,
+  "assay": "CHEMBL666232",
+  "doc": "CHEMBL1129574"
+ },
+ {
+  "mol": "CHEMBL140210",
+  "target": "Dihydroorotate dehydrogenase (quinone), mitochondrial",
+  "pchembl": 5.34,
+  "value": 4570.0,
+  "assay": "CHEMBL666233",
+  "doc": "CHEMBL1129574"
+ },
+ {
+  "mol": "CHEMBL342581",
+  "target": "Dihydroorotate dehydrogenase (quinone), mitochondrial",
+  "pchembl": 5.05,
+  "value": 8910.0,
+  "assay": "CHEMBL666232",
+  "doc": "CHEMBL1129574"
+ },
+ {
+  "mol": "CHEMBL342581",
+  "target": "Dihydroorotate dehydrogenase (quinone), mitochondrial",
+  "pchembl": 4.93,
+  "value": 11700.0,
+  "assay": "CHEMBL666233",
+  "doc": "CHEMBL1129574"
+ },
+ {
+  "mol": "CHEMBL77052",
+  "target": "Plasmodium falciparum",
+  "pchembl": 8.37,
+  "value": 4.25,
+  "assay": "CHEMBL760652",
+  "doc": "CHEMBL1128412"
+ },
+ {
+  "mol": "CHEMBL162006",
+  "target": "Sodium-dependent dopamine transporter",
+  "pchembl": 6.9,
+  "value": 126.0,
+  "assay": "CHEMBL673211",
+  "doc": "CHEMBL1129478"
+ },
+ {
+  "mol": "CHEMBL162006",
+  "target": "Sodium-dependent serotonin transporter",
+  "pchembl": 6.12,
+  "value": 761.0,
+  "assay": "CHEMBL806971",
+  "doc": "CHEMBL1129478"
+ },
+ {
+  "mol": "CHEMBL330844",
+  "target": "Phospholipase A2",
+  "pchembl": 7.64,
+  "value": 23.0,
+  "assay": "CHEMBL760952",
+  "doc": "CHEMBL1129638"
+ },
+ {
+  "mol": "CHEMBL330844",
+  "target": "Phospholipase A2",
+  "pchembl": 7.0,
+  "value": 100.0,
+  "assay": "CHEMBL760953",
+  "doc": "CHEMBL1129638"
+ },
+ {
+  "mol": "CHEMBL318730",
+  "target": "Human immunodeficiency virus type 1 reverse transcriptase",
+  "pchembl": 6.34,
+  "value": 457.09,
+  "assay": "CHEMBL802044",
+  "doc": "CHEMBL1129434"
+ },
+ {
+  "mol": "CHEMBL338077",
+  "target": "Stromelysin-1",
+  "pchembl": 8.02,
+  "value": 9.499,
+  "assay": "CHEMBL709184",
+  "doc": "CHEMBL1134678"
+ },
+ {
+  "mol": "CHEMBL339219",
+  "target": "Stromelysin-1",
+  "pchembl": 7.27,
+  "value": 54.0,
+  "assay": "CHEMBL709184",
+  "doc": "CHEMBL1134678"
+ },
+ {
+  "mol": "CHEMBL324842",
+  "target": "Human immunodeficiency virus type 1 integrase",
+  "pchembl": 5.05,
+  "value": 9000.0,
+  "assay": "CHEMBL701719",
+  "doc": "CHEMBL1133723"
+ },
+ {
+  "mol": "CHEMBL423694",
+  "target": "Delta-type opioid receptor",
+  "pchembl": 8.81,
+  "value": 1.56,
+  "assay": "CHEMBL750418",
+  "doc": "CHEMBL1133469"
+ },
+ {
+  "mol": "CHEMBL423694",
+  "target": "Mu-type opioid receptor",
+  "pchembl": 5.28,
+  "value": 5250.0,
+  "assay": "CHEMBL749749",
+  "doc": "CHEMBL1133469"
+ },
+ {
+  "mol": "CHEMBL50117",
+  "target": "Prothrombin",
+  "pchembl": 6.05,
+  "value": 890.0,
+  "assay": "CHEMBL816447",
+  "doc": "CHEMBL1132927"
+ },
+ {
+  "mol": "CHEMBL278700",
+  "target": "Inositol 1,4,5-trisphosphate-gated calcium channel ITPR3",
+  "pchembl": 5.41,
+  "value": 3900.0,
+  "assay": "CHEMBL699739",
+  "doc": "CHEMBL1132480"
+ },
+ {
+  "mol": "CHEMBL151539",
+  "target": "Interstitial collagenase",
+  "pchembl": 7.89,
+  "value": 13.0,
+  "assay": "CHEMBL715372",
+  "doc": "CHEMBL1132553"
+ }
+]

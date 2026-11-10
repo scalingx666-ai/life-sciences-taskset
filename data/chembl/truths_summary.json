@@ -1,0 +1,47 @@
+{
+ "IC50": {
+  "n": 155,
+  "median_pchembl": 6.74,
+  "mean_pchembl": 6.7257,
+  "q25": 5.6,
+  "q75": 7.89,
+  "min": 4.0,
+  "max": 10.4
+ },
+ "Ki": {
+  "n": 85,
+  "median_pchembl": 7.13,
+  "mean_pchembl": 7.0266,
+  "q25": 5.99,
+  "q75": 8.07,
+  "min": 4.41,
+  "max": 9.85
+ },
+ "Kd": {
+  "n": 89,
+  "median_pchembl": 7.56,
+  "mean_pchembl": 7.3462,
+  "q25": 6.0,
+  "q75": 8.69,
+  "min": 4.0,
+  "max": 10.6
+ },
+ "EC50": {
+  "n": 74,
+  "median_pchembl": 6.145,
+  "mean_pchembl": 6.4246,
+  "q25": 5.19,
+  "q75": 7.82,
+  "min": 4.0,
+  "max": 9.4
+ },
+ "AC50": {
+  "n": 69,
+  "median_pchembl": 6.0,
+  "mean_pchembl": 5.9284,
+  "q25": 4.42,
+  "q75": 7.17,
+  "min": 4.05,
+  "max": 9.0
+ }
+}

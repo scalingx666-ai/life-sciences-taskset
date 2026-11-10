@@ -1,0 +1,554 @@
+[
+ {
+  "mol": "CHEMBL83527",
+  "target": "HL-60",
+  "pchembl": 4.16,
+  "value": 70000.0,
+  "assay": "CHEMBL689641",
+  "doc": "CHEMBL1144989"
+ },
+ {
+  "mol": "CHEMBL87712",
+  "target": "HL-60",
+  "pchembl": 5.3,
+  "value": 5000.0,
+  "assay": "CHEMBL689641",
+  "doc": "CHEMBL1144989"
+ },
+ {
+  "mol": "CHEMBL324290",
+  "target": "HL-60",
+  "pchembl": 4.82,
+  "value": 15000.0,
+  "assay": "CHEMBL689641",
+  "doc": "CHEMBL1144989"
+ },
+ {
+  "mol": "CHEMBL116888",
+  "target": "HL-60",
+  "pchembl": 7.4,
+  "value": 40.0,
+  "assay": "CHEMBL689641",
+  "doc": "CHEMBL1144989"
+ },
+ {
+  "mol": "CHEMBL116888",
+  "target": "HL-60",
+  "pchembl": 7.52,
+  "value": 30.0,
+  "assay": "CHEMBL686846",
+  "doc": "CHEMBL1144989"
+ },
+ {
+  "mol": "CHEMBL185",
+  "target": "HL-60",
+  "pchembl": 5.19,
+  "value": 6500.0,
+  "assay": "CHEMBL689641",
+  "doc": "CHEMBL1144989"
+ },
+ {
+  "mol": "CHEMBL117575",
+  "target": "HL-60",
+  "pchembl": 5.1,
+  "value": 8000.0,
+  "assay": "CHEMBL689641",
+  "doc": "CHEMBL1144989"
+ },
+ {
+  "mol": "CHEMBL119260",
+  "target": "HL-60",
+  "pchembl": 7.0,
+  "value": 100.0,
+  "assay": "CHEMBL689641",
+  "doc": "CHEMBL1144989"
+ },
+ {
+  "mol": "CHEMBL116776",
+  "target": "HL-60",
+  "pchembl": 5.1,
+  "value": 8000.0,
+  "assay": "CHEMBL689641",
+  "doc": "CHEMBL1144989"
+ },
+ {
+  "mol": "CHEMBL332541",
+  "target": "HL-60",
+  "pchembl": 4.17,
+  "value": 68000.0,
+  "assay": "CHEMBL689641",
+  "doc": "CHEMBL1144989"
+ },
+ {
+  "mol": "CHEMBL419378",
+  "target": "HL-60",
+  "pchembl": 6.05,
+  "value": 900.0,
+  "assay": "CHEMBL689641",
+  "doc": "CHEMBL1144989"
+ },
+ {
+  "mol": "CHEMBL11359",
+  "target": "HL-60",
+  "pchembl": 5.92,
+  "value": 1200.0,
+  "assay": "CHEMBL689641",
+  "doc": "CHEMBL1144989"
+ },
+ {
+  "mol": "CHEMBL165",
+  "target": "HL-60",
+  "pchembl": 4.3,
+  "value": 50000.0,
+  "assay": "CHEMBL689641",
+  "doc": "CHEMBL1144989"
+ },
+ {
+  "mol": "CHEMBL333230",
+  "target": "HL-60",
+  "pchembl": 4.16,
+  "value": 70000.0,
+  "assay": "CHEMBL689641",
+  "doc": "CHEMBL1144989"
+ },
+ {
+  "mol": "CHEMBL119320",
+  "target": "HL-60",
+  "pchembl": 4.42,
+  "value": 38000.0,
+  "assay": "CHEMBL689641",
+  "doc": "CHEMBL1144989"
+ },
+ {
+  "mol": "CHEMBL44657",
+  "target": "HL-60",
+  "pchembl": 6.35,
+  "value": 450.0,
+  "assay": "CHEMBL689641",
+  "doc": "CHEMBL1144989"
+ },
+ {
+  "mol": "CHEMBL44657",
+  "target": "HL-60",
+  "pchembl": 4.82,
+  "value": 15000.0,
+  "assay": "CHEMBL687002",
+  "doc": "CHEMBL1144989"
+ },
+ {
+  "mol": "CHEMBL178",
+  "target": "HL-60",
+  "pchembl": 7.4,
+  "value": 40.0,
+  "assay": "CHEMBL689641",
+  "doc": "CHEMBL1144989"
+ },
+ {
+  "mol": "CHEMBL178",
+  "target": "HL-60",
+  "pchembl": 5.0,
+  "value": 10000.0,
+  "assay": "CHEMBL687002",
+  "doc": "CHEMBL1144989"
+ },
+ {
+  "mol": "CHEMBL119576",
+  "target": "HL-60",
+  "pchembl": 4.4,
+  "value": 40000.0,
+  "assay": "CHEMBL689641",
+  "doc": "CHEMBL1144989"
+ },
+ {
+  "mol": "CHEMBL119934",
+  "target": "HL-60",
+  "pchembl": 7.4,
+  "value": 40.0,
+  "assay": "CHEMBL689641",
+  "doc": "CHEMBL1144989"
+ },
+ {
+  "mol": "CHEMBL119934",
+  "target": "HL-60",
+  "pchembl": 7.3,
+  "value": 50.0,
+  "assay": "CHEMBL687002",
+  "doc": "CHEMBL1144989"
+ },
+ {
+  "mol": "CHEMBL803",
+  "target": "HL-60",
+  "pchembl": 6.82,
+  "value": 150.0,
+  "assay": "CHEMBL689641",
+  "doc": "CHEMBL1144989"
+ },
+ {
+  "mol": "CHEMBL803",
+  "target": "HL-60",
+  "pchembl": 5.1,
+  "value": 8000.0,
+  "assay": "CHEMBL687002",
+  "doc": "CHEMBL1144989"
+ },
+ {
+  "mol": "CHEMBL332610",
+  "target": "HL-60",
+  "pchembl": 6.0,
+  "value": 1000.0,
+  "assay": "CHEMBL689641",
+  "doc": "CHEMBL1144989"
+ },
+ {
+  "mol": "CHEMBL1265",
+  "target": "F9",
+  "pchembl": 7.43,
+  "value": 37.0,
+  "assay": "CHEMBL677727",
+  "doc": "CHEMBL1150002"
+ },
+ {
+  "mol": "CHEMBL75527",
+  "target": "F9",
+  "pchembl": 6.52,
+  "value": 300.0,
+  "assay": "CHEMBL677727",
+  "doc": "CHEMBL1150002"
+ },
+ {
+  "mol": "CHEMBL89025",
+  "target": "HL-60",
+  "pchembl": 4.1,
+  "value": 80000.0,
+  "assay": "CHEMBL689642",
+  "doc": "CHEMBL1132832"
+ },
+ {
+  "mol": "CHEMBL315049",
+  "target": "HL-60",
+  "pchembl": 4.05,
+  "value": 90000.0,
+  "assay": "CHEMBL689642",
+  "doc": "CHEMBL1132832"
+ },
+ {
+  "mol": "CHEMBL75732",
+  "target": "F9",
+  "pchembl": 7.47,
+  "value": 34.0,
+  "assay": "CHEMBL677727",
+  "doc": "CHEMBL1150002"
+ },
+ {
+  "mol": "CHEMBL86663",
+  "target": "HL-60",
+  "pchembl": 4.4,
+  "value": 40000.0,
+  "assay": "CHEMBL689642",
+  "doc": "CHEMBL1132832"
+ },
+ {
+  "mol": "CHEMBL327210",
+  "target": "HL-60",
+  "pchembl": 4.4,
+  "value": 40000.0,
+  "assay": "CHEMBL689642",
+  "doc": "CHEMBL1132832"
+ },
+ {
+  "mol": "CHEMBL308170",
+  "target": "F9",
+  "pchembl": 6.52,
+  "value": 305.0,
+  "assay": "CHEMBL677727",
+  "doc": "CHEMBL1150002"
+ },
+ {
+  "mol": "CHEMBL90624",
+  "target": "HL-60",
+  "pchembl": 4.3,
+  "value": 50000.0,
+  "assay": "CHEMBL689642",
+  "doc": "CHEMBL1132832"
+ },
+ {
+  "mol": "CHEMBL90624",
+  "target": "HL-60",
+  "pchembl": 4.06,
+  "value": 87000.0,
+  "assay": "CHEMBL690287",
+  "doc": "CHEMBL1132832"
+ },
+ {
+  "mol": "CHEMBL90624",
+  "target": "K562",
+  "pchembl": 4.3,
+  "value": 50000.0,
+  "assay": "CHEMBL879428",
+  "doc": "CHEMBL1132832"
+ },
+ {
+  "mol": "CHEMBL90624",
+  "target": "HuT78",
+  "pchembl": 4.34,
+  "value": 46000.0,
+  "assay": "CHEMBL691963",
+  "doc": "CHEMBL1132832"
+ },
+ {
+  "mol": "CHEMBL90760",
+  "target": "HL-60",
+  "pchembl": 4.42,
+  "value": 38000.0,
+  "assay": "CHEMBL689642",
+  "doc": "CHEMBL1132832"
+ },
+ {
+  "mol": "CHEMBL90947",
+  "target": "HL-60",
+  "pchembl": 5.0,
+  "value": 10000.0,
+  "assay": "CHEMBL689642",
+  "doc": "CHEMBL1132832"
+ },
+ {
+  "mol": "CHEMBL90947",
+  "target": "HL-60",
+  "pchembl": 4.6,
+  "value": 25000.0,
+  "assay": "CHEMBL690287",
+  "doc": "CHEMBL1132832"
+ },
+ {
+  "mol": "CHEMBL90947",
+  "target": "K562",
+  "pchembl": 4.57,
+  "value": 27000.0,
+  "assay": "CHEMBL879428",
+  "doc": "CHEMBL1132832"
+ },
+ {
+  "mol": "CHEMBL90947",
+  "target": "HuT78",
+  "pchembl": 5.0,
+  "value": 10000.0,
+  "assay": "CHEMBL691963",
+  "doc": "CHEMBL1132832"
+ },
+ {
+  "mol": "CHEMBL92096",
+  "target": "HL-60",
+  "pchembl": 4.33,
+  "value": 47000.0,
+  "assay": "CHEMBL689642",
+  "doc": "CHEMBL1132832"
+ },
+ {
+  "mol": "CHEMBL75048",
+  "target": "F9",
+  "pchembl": 6.97,
+  "value": 107.0,
+  "assay": "CHEMBL677727",
+  "doc": "CHEMBL1150002"
+ },
+ {
+  "mol": "CHEMBL91119",
+  "target": "HL-60",
+  "pchembl": 4.05,
+  "value": 90000.0,
+  "assay": "CHEMBL689642",
+  "doc": "CHEMBL1132832"
+ },
+ {
+  "mol": "CHEMBL75848",
+  "target": "F9",
+  "pchembl": 7.24,
+  "value": 58.0,
+  "assay": "CHEMBL677727",
+  "doc": "CHEMBL1150002"
+ },
+ {
+  "mol": "CHEMBL88769",
+  "target": "HL-60",
+  "pchembl": 4.07,
+  "value": 85000.0,
+  "assay": "CHEMBL689642",
+  "doc": "CHEMBL1132832"
+ },
+ {
+  "mol": "CHEMBL91268",
+  "target": "HL-60",
+  "pchembl": 4.4,
+  "value": 40000.0,
+  "assay": "CHEMBL689642",
+  "doc": "CHEMBL1132832"
+ },
+ {
+  "mol": "CHEMBL90623",
+  "target": "HL-60",
+  "pchembl": 4.42,
+  "value": 38000.0,
+  "assay": "CHEMBL689642",
+  "doc": "CHEMBL1132832"
+ },
+ {
+  "mol": "CHEMBL25361",
+  "target": "F9",
+  "pchembl": 7.82,
+  "value": 15.0,
+  "assay": "CHEMBL677727",
+  "doc": "CHEMBL1150002"
+ },
+ {
+  "mol": "CHEMBL423654",
+  "target": "Retinoic acid receptor alpha",
+  "pchembl": 6.43,
+  "value": 370.0,
+  "assay": "CHEMBL801812",
+  "doc": "CHEMBL1133193"
+ },
+ {
+  "mol": "CHEMBL423654",
+  "target": "Retinoic acid receptor beta",
+  "pchembl": 6.85,
+  "value": 140.0,
+  "assay": "CHEMBL795952",
+  "doc": "CHEMBL1133193"
+ },
+ {
+  "mol": "CHEMBL25337",
+  "target": "Retinoic acid receptor alpha",
+  "pchembl": 7.85,
+  "value": 14.0,
+  "assay": "CHEMBL801812",
+  "doc": "CHEMBL1133193"
+ },
+ {
+  "mol": "CHEMBL25337",
+  "target": "Retinoic acid receptor RXR-alpha",
+  "pchembl": 7.0,
+  "value": 100.0,
+  "assay": "CHEMBL769013",
+  "doc": "CHEMBL1133193"
+ },
+ {
+  "mol": "CHEMBL27226",
+  "target": "Retinoic acid receptor alpha",
+  "pchembl": 7.1,
+  "value": 79.0,
+  "assay": "CHEMBL801812",
+  "doc": "CHEMBL1133193"
+ },
+ {
+  "mol": "CHEMBL27226",
+  "target": "Retinoic acid receptor RXR-alpha",
+  "pchembl": 6.87,
+  "value": 135.0,
+  "assay": "CHEMBL769013",
+  "doc": "CHEMBL1133193"
+ },
+ {
+  "mol": "CHEMBL25038",
+  "target": "Retinoic acid receptor beta",
+  "pchembl": 6.13,
+  "value": 740.0,
+  "assay": "CHEMBL795952",
+  "doc": "CHEMBL1133193"
+ },
+ {
+  "mol": "CHEMBL25038",
+  "target": "Retinoic acid receptor gamma",
+  "pchembl": 6.66,
+  "value": 220.0,
+  "assay": "CHEMBL618435",
+  "doc": "CHEMBL1133193"
+ },
+ {
+  "mol": "CHEMBL25088",
+  "target": "Retinoic acid receptor beta",
+  "pchembl": 8.0,
+  "value": 10.0,
+  "assay": "CHEMBL795952",
+  "doc": "CHEMBL1133193"
+ },
+ {
+  "mol": "CHEMBL25088",
+  "target": "Retinoic acid receptor gamma",
+  "pchembl": 9.0,
+  "value": 1.0,
+  "assay": "CHEMBL618435",
+  "doc": "CHEMBL1133193"
+ },
+ {
+  "mol": "CHEMBL25088",
+  "target": "Retinoic acid receptor RXR-alpha",
+  "pchembl": 6.37,
+  "value": 430.0,
+  "assay": "CHEMBL769013",
+  "doc": "CHEMBL1133193"
+ },
+ {
+  "mol": "CHEMBL428708",
+  "target": "Retinoic acid receptor gamma",
+  "pchembl": 6.0,
+  "value": 1000.0,
+  "assay": "CHEMBL618435",
+  "doc": "CHEMBL1133193"
+ },
+ {
+  "mol": "CHEMBL418570",
+  "target": "Retinoic acid receptor alpha",
+  "pchembl": 9.0,
+  "value": 1.0,
+  "assay": "CHEMBL801812",
+  "doc": "CHEMBL1133193"
+ },
+ {
+  "mol": "CHEMBL418570",
+  "target": "Retinoic acid receptor beta",
+  "pchembl": 8.37,
+  "value": 4.3,
+  "assay": "CHEMBL795952",
+  "doc": "CHEMBL1133193"
+ },
+ {
+  "mol": "CHEMBL418570",
+  "target": "Retinoic acid receptor gamma",
+  "pchembl": 8.64,
+  "value": 2.3,
+  "assay": "CHEMBL618435",
+  "doc": "CHEMBL1133193"
+ },
+ {
+  "mol": "CHEMBL25361",
+  "target": "Retinoic acid receptor beta",
+  "pchembl": 7.28,
+  "value": 52.0,
+  "assay": "CHEMBL795952",
+  "doc": "CHEMBL1133193"
+ },
+ {
+  "mol": "CHEMBL25361",
+  "target": "Retinoic acid receptor gamma",
+  "pchembl": 7.17,
+  "value": 68.0,
+  "assay": "CHEMBL618435",
+  "doc": "CHEMBL1133193"
+ },
+ {
+  "mol": "CHEMBL275311",
+  "target": "Retinoic acid receptor alpha",
+  "pchembl": 6.7,
+  "value": 200.0,
+  "assay": "CHEMBL801812",
+  "doc": "CHEMBL1133193"
+ },
+ {
+  "mol": "CHEMBL275311",
+  "target": "Retinoic acid receptor beta",
+  "pchembl": 7.66,
+  "value": 22.0,
+  "assay": "CHEMBL795952",
+  "doc": "CHEMBL1133193"
+ }
+]

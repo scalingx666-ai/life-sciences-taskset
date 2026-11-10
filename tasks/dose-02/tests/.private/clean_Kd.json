@@ -1,0 +1,714 @@
+[
+ {
+  "mol": "CHEMBL302907",
+  "target": "Histamine H2 receptor",
+  "pchembl": 7.6,
+  "value": 25.12,
+  "assay": "CHEMBL694844",
+  "doc": "CHEMBL1122014"
+ },
+ {
+  "mol": "CHEMBL302907",
+  "target": "Adrenergic receptor beta",
+  "pchembl": 4.3,
+  "value": 50118.72,
+  "assay": "CHEMBL652668",
+  "doc": "CHEMBL1122014"
+ },
+ {
+  "mol": "CHEMBL13299",
+  "target": "Cavia porcellus",
+  "pchembl": 8.1,
+  "value": 7.943,
+  "assay": "CHEMBL689690",
+  "doc": "CHEMBL1122495"
+ },
+ {
+  "mol": "CHEMBL13299",
+  "target": "Cavia porcellus",
+  "pchembl": 6.7,
+  "value": 199.53,
+  "assay": "CHEMBL857044",
+  "doc": "CHEMBL1122495"
+ },
+ {
+  "mol": "CHEMBL305153",
+  "target": "Beta-1 adrenergic receptor",
+  "pchembl": 7.43,
+  "value": 37.15,
+  "assay": "CHEMBL655651",
+  "doc": "CHEMBL1122110"
+ },
+ {
+  "mol": "CHEMBL305153",
+  "target": "Beta-2 adrenergic receptor",
+  "pchembl": 7.77,
+  "value": 16.98,
+  "assay": "CHEMBL651634",
+  "doc": "CHEMBL1122110"
+ },
+ {
+  "mol": "CHEMBL13228",
+  "target": "Cavia porcellus",
+  "pchembl": 9.4,
+  "value": 0.3981,
+  "assay": "CHEMBL689690",
+  "doc": "CHEMBL1122495"
+ },
+ {
+  "mol": "CHEMBL13228",
+  "target": "Cavia porcellus",
+  "pchembl": 9.1,
+  "value": 0.7943,
+  "assay": "CHEMBL857044",
+  "doc": "CHEMBL1122495"
+ },
+ {
+  "mol": "CHEMBL408689",
+  "target": "Rattus norvegicus",
+  "pchembl": 5.3,
+  "value": 5011.87,
+  "assay": "CHEMBL796079",
+  "doc": "CHEMBL1124158"
+ },
+ {
+  "mol": "CHEMBL297654",
+  "target": "Angiotensin II receptor",
+  "pchembl": 7.43,
+  "value": 37.15,
+  "assay": "CHEMBL767386",
+  "doc": "CHEMBL1127867"
+ },
+ {
+  "mol": "CHEMBL300191",
+  "target": "Angiotensin II receptor",
+  "pchembl": 7.56,
+  "value": 27.54,
+  "assay": "CHEMBL767386",
+  "doc": "CHEMBL1127867"
+ },
+ {
+  "mol": "CHEMBL21521",
+  "target": "Neurotensin receptor type 1",
+  "pchembl": 6.52,
+  "value": 300.0,
+  "assay": "CHEMBL754348",
+  "doc": "CHEMBL1152104"
+ },
+ {
+  "mol": "CHEMBL1160562",
+  "target": "Phosphoglycerate kinase",
+  "pchembl": 5.22,
+  "value": 6000.0,
+  "assay": "CHEMBL759843",
+  "doc": "CHEMBL1131549"
+ },
+ {
+  "mol": "CHEMBL3349798",
+  "target": "Substance-K receptor",
+  "pchembl": 6.7,
+  "value": 199.53,
+  "assay": "CHEMBL749548",
+  "doc": "CHEMBL1126670"
+ },
+ {
+  "mol": "CHEMBL3349798",
+  "target": "Neuromedin-K receptor",
+  "pchembl": 4.9,
+  "value": 12589.25,
+  "assay": "CHEMBL749632",
+  "doc": "CHEMBL1126670"
+ },
+ {
+  "mol": "CHEMBL2369383",
+  "target": "Rattus norvegicus",
+  "pchembl": 6.52,
+  "value": 302.0,
+  "assay": "CHEMBL857227",
+  "doc": "CHEMBL1125283"
+ },
+ {
+  "mol": "CHEMBL367546",
+  "target": "Rattus norvegicus",
+  "pchembl": 8.55,
+  "value": 2.818,
+  "assay": "CHEMBL802806",
+  "doc": "CHEMBL1125644"
+ },
+ {
+  "mol": "CHEMBL315191",
+  "target": "Muscarinic acetylcholine receptor M2",
+  "pchembl": 5.3,
+  "value": 5011.87,
+  "assay": "CHEMBL748234",
+  "doc": "CHEMBL1126174"
+ },
+ {
+  "mol": "CHEMBL281460",
+  "target": "Adrenergic receptor alpha-1",
+  "pchembl": 7.6,
+  "value": 25.12,
+  "assay": "CHEMBL643853",
+  "doc": "CHEMBL1121744"
+ },
+ {
+  "mol": "CHEMBL281460",
+  "target": "Adrenergic receptor alpha-2",
+  "pchembl": 6.0,
+  "value": 1000.0,
+  "assay": "CHEMBL641370",
+  "doc": "CHEMBL1121744"
+ },
+ {
+  "mol": "CHEMBL2",
+  "target": "Adrenergic receptor alpha-1",
+  "pchembl": 8.7,
+  "value": 1.995,
+  "assay": "CHEMBL643853",
+  "doc": "CHEMBL1121744"
+ },
+ {
+  "mol": "CHEMBL2",
+  "target": "Adrenergic receptor alpha-2",
+  "pchembl": 5.6,
+  "value": 2511.89,
+  "assay": "CHEMBL641370",
+  "doc": "CHEMBL1121744"
+ },
+ {
+  "mol": "CHEMBL46004",
+  "target": "Angiotensin II receptor",
+  "pchembl": 8.8,
+  "value": 1.585,
+  "assay": "CHEMBL767386",
+  "doc": "CHEMBL1127867"
+ },
+ {
+  "mol": "CHEMBL148189",
+  "target": "5-hydroxytryptamine receptor 2A",
+  "pchembl": 6.28,
+  "value": 524.81,
+  "assay": "CHEMBL805832",
+  "doc": "CHEMBL1128861"
+ },
+ {
+  "mol": "CHEMBL286329",
+  "target": "Adrenergic receptor alpha-1",
+  "pchembl": 6.57,
+  "value": 269.15,
+  "assay": "CHEMBL822775",
+  "doc": "CHEMBL1126699"
+ },
+ {
+  "mol": "CHEMBL286329",
+  "target": "Adrenergic receptor alpha-2",
+  "pchembl": 5.94,
+  "value": 1148.15,
+  "assay": "CHEMBL822170",
+  "doc": "CHEMBL1126699"
+ },
+ {
+  "mol": "CHEMBL3350012",
+  "target": "Substance-K receptor",
+  "pchembl": 6.0,
+  "value": 1000.0,
+  "assay": "CHEMBL749548",
+  "doc": "CHEMBL1126670"
+ },
+ {
+  "mol": "CHEMBL286565",
+  "target": "Adrenergic receptor alpha-1",
+  "pchembl": 8.69,
+  "value": 2.042,
+  "assay": "CHEMBL822775",
+  "doc": "CHEMBL1126699"
+ },
+ {
+  "mol": "CHEMBL286565",
+  "target": "Adrenergic receptor alpha-2",
+  "pchembl": 4.37,
+  "value": 42657.95,
+  "assay": "CHEMBL822170",
+  "doc": "CHEMBL1126699"
+ },
+ {
+  "mol": "CHEMBL836",
+  "target": "Alpha-1A adrenergic receptor",
+  "pchembl": 9.54,
+  "value": 0.2884,
+  "assay": "CHEMBL652806",
+  "doc": "CHEMBL1130166"
+ },
+ {
+  "mol": "CHEMBL836",
+  "target": "Alpha-1A adrenergic receptor",
+  "pchembl": 9.47,
+  "value": 0.3388,
+  "assay": "CHEMBL644676",
+  "doc": "CHEMBL1130166"
+ },
+ {
+  "mol": "CHEMBL836",
+  "target": "Alpha-1B adrenergic receptor",
+  "pchembl": 9.69,
+  "value": 0.2042,
+  "assay": "CHEMBL646230",
+  "doc": "CHEMBL1130166"
+ },
+ {
+  "mol": "CHEMBL836",
+  "target": "Alpha-1D adrenergic receptor",
+  "pchembl": 10.6,
+  "value": 0.02512,
+  "assay": "CHEMBL645202",
+  "doc": "CHEMBL1130166"
+ },
+ {
+  "mol": "CHEMBL836",
+  "target": "Canis familiaris",
+  "pchembl": 8.87,
+  "value": 1.349,
+  "assay": "CHEMBL879560",
+  "doc": "CHEMBL1130166"
+ },
+ {
+  "mol": "CHEMBL12984",
+  "target": "Cavia porcellus",
+  "pchembl": 8.9,
+  "value": 1.259,
+  "assay": "CHEMBL689690",
+  "doc": "CHEMBL1122495"
+ },
+ {
+  "mol": "CHEMBL12984",
+  "target": "Cavia porcellus",
+  "pchembl": 8.5,
+  "value": 3.162,
+  "assay": "CHEMBL857044",
+  "doc": "CHEMBL1122495"
+ },
+ {
+  "mol": "CHEMBL368457",
+  "target": "Beta-1 adrenergic receptor",
+  "pchembl": 7.47,
+  "value": 33.88,
+  "assay": "CHEMBL655651",
+  "doc": "CHEMBL1122110"
+ },
+ {
+  "mol": "CHEMBL368457",
+  "target": "Beta-2 adrenergic receptor",
+  "pchembl": 7.18,
+  "value": 66.07,
+  "assay": "CHEMBL651634",
+  "doc": "CHEMBL1122110"
+ },
+ {
+  "mol": "CHEMBL262260",
+  "target": "Rattus norvegicus",
+  "pchembl": 7.5,
+  "value": 31.62,
+  "assay": "CHEMBL796079",
+  "doc": "CHEMBL1124158"
+ },
+ {
+  "mol": "CHEMBL295817",
+  "target": "Angiotensin II receptor",
+  "pchembl": 7.94,
+  "value": 11.48,
+  "assay": "CHEMBL767386",
+  "doc": "CHEMBL1127867"
+ },
+ {
+  "mol": "CHEMBL46",
+  "target": "Serotonin 3 (5-HT3) receptor",
+  "pchembl": 7.01,
+  "value": 97.72,
+  "assay": "CHEMBL617821",
+  "doc": "CHEMBL1128861"
+ },
+ {
+  "mol": "CHEMBL511",
+  "target": "Histamine H1 receptor",
+  "pchembl": 9.07,
+  "value": 0.8511,
+  "assay": "CHEMBL696888",
+  "doc": "CHEMBL1128861"
+ },
+ {
+  "mol": "CHEMBL609443",
+  "target": "Phosphoglycerate kinase",
+  "pchembl": 4.89,
+  "value": 13000.0,
+  "assay": "CHEMBL759843",
+  "doc": "CHEMBL1131549"
+ },
+ {
+  "mol": "CHEMBL158502",
+  "target": "Cannabinoid receptor 1",
+  "pchembl": 9.0,
+  "value": 1.0,
+  "assay": "CHEMBL658112",
+  "doc": "CHEMBL1148395"
+ },
+ {
+  "mol": "CHEMBL345466",
+  "target": "Cannabinoid receptor 1",
+  "pchembl": 9.3,
+  "value": 0.5012,
+  "assay": "CHEMBL658112",
+  "doc": "CHEMBL1148395"
+ },
+ {
+  "mol": "CHEMBL159201",
+  "target": "Cannabinoid receptor 1",
+  "pchembl": 7.6,
+  "value": 25.12,
+  "assay": "CHEMBL658112",
+  "doc": "CHEMBL1148395"
+ },
+ {
+  "mol": "CHEMBL158700",
+  "target": "Cannabinoid receptor 1",
+  "pchembl": 8.7,
+  "value": 1.995,
+  "assay": "CHEMBL658112",
+  "doc": "CHEMBL1148395"
+ },
+ {
+  "mol": "CHEMBL1202060",
+  "target": "Rattus norvegicus",
+  "pchembl": 7.68,
+  "value": 20.89,
+  "assay": "CHEMBL802806",
+  "doc": "CHEMBL1125644"
+ },
+ {
+  "mol": "CHEMBL1744305",
+  "target": "Rattus norvegicus",
+  "pchembl": 8.71,
+  "value": 1.95,
+  "assay": "CHEMBL802806",
+  "doc": "CHEMBL1125644"
+ },
+ {
+  "mol": "CHEMBL1203863",
+  "target": "Rattus norvegicus",
+  "pchembl": 8.22,
+  "value": 6.026,
+  "assay": "CHEMBL802806",
+  "doc": "CHEMBL1125644"
+ },
+ {
+  "mol": "CHEMBL313227",
+  "target": "Muscarinic acetylcholine receptor M2",
+  "pchembl": 5.5,
+  "value": 3162.28,
+  "assay": "CHEMBL748234",
+  "doc": "CHEMBL1126174"
+ },
+ {
+  "mol": "CHEMBL326381",
+  "target": "Muscarinic acetylcholine receptor M3",
+  "pchembl": 5.12,
+  "value": 7500.0,
+  "assay": "CHEMBL743823",
+  "doc": "CHEMBL1125543"
+ },
+ {
+  "mol": "CHEMBL111467",
+  "target": "Muscarinic acetylcholine receptor M3",
+  "pchembl": 4.0,
+  "value": 100000.0,
+  "assay": "CHEMBL743823",
+  "doc": "CHEMBL1125543"
+ },
+ {
+  "mol": "CHEMBL25591",
+  "target": "Adrenergic receptor alpha-1",
+  "pchembl": 5.5,
+  "value": 3162.28,
+  "assay": "CHEMBL643853",
+  "doc": "CHEMBL1121744"
+ },
+ {
+  "mol": "CHEMBL21448",
+  "target": "Neurotensin receptor",
+  "pchembl": 5.72,
+  "value": 1900.0,
+  "assay": "CHEMBL754788",
+  "doc": "CHEMBL1152104"
+ },
+ {
+  "mol": "CHEMBL21448",
+  "target": "Neurotensin receptor type 1",
+  "pchembl": 6.52,
+  "value": 300.0,
+  "assay": "CHEMBL754348",
+  "doc": "CHEMBL1152104"
+ },
+ {
+  "mol": "CHEMBL161065",
+  "target": "Adrenergic receptor alpha-1",
+  "pchembl": 8.75,
+  "value": 1.778,
+  "assay": "CHEMBL644561",
+  "doc": "CHEMBL1128861"
+ },
+ {
+  "mol": "CHEMBL3349531",
+  "target": "Substance-K receptor",
+  "pchembl": 6.2,
+  "value": 630.96,
+  "assay": "CHEMBL749548",
+  "doc": "CHEMBL1126670"
+ },
+ {
+  "mol": "CHEMBL105060",
+  "target": "Substance-P receptor",
+  "pchembl": 7.93,
+  "value": 11.75,
+  "assay": "CHEMBL810502",
+  "doc": "CHEMBL1144988"
+ },
+ {
+  "mol": "CHEMBL105060",
+  "target": "Substance-K receptor",
+  "pchembl": 7.27,
+  "value": 53.7,
+  "assay": "CHEMBL857235",
+  "doc": "CHEMBL1144988"
+ },
+ {
+  "mol": "CHEMBL1744304",
+  "target": "Rattus norvegicus",
+  "pchembl": 8.43,
+  "value": 3.715,
+  "assay": "CHEMBL802806",
+  "doc": "CHEMBL1125644"
+ },
+ {
+  "mol": "CHEMBL6966",
+  "target": "Rattus norvegicus",
+  "pchembl": 8.16,
+  "value": 6.918,
+  "assay": "CHEMBL802806",
+  "doc": "CHEMBL1125644"
+ },
+ {
+  "mol": "CHEMBL109815",
+  "target": "Muscarinic acetylcholine receptor M3",
+  "pchembl": 4.94,
+  "value": 11500.0,
+  "assay": "CHEMBL743823",
+  "doc": "CHEMBL1125543"
+ },
+ {
+  "mol": "CHEMBL25554",
+  "target": "Adrenergic receptor alpha-1",
+  "pchembl": 9.26,
+  "value": 0.5495,
+  "assay": "CHEMBL822775",
+  "doc": "CHEMBL1126699"
+ },
+ {
+  "mol": "CHEMBL25554",
+  "target": "Adrenergic receptor alpha-2",
+  "pchembl": 6.39,
+  "value": 407.38,
+  "assay": "CHEMBL822170",
+  "doc": "CHEMBL1126699"
+ },
+ {
+  "mol": "CHEMBL3349620",
+  "target": "Substance-K receptor",
+  "pchembl": 8.1,
+  "value": 7.943,
+  "assay": "CHEMBL749548",
+  "doc": "CHEMBL1126670"
+ },
+ {
+  "mol": "CHEMBL3349620",
+  "target": "Substance-P receptor",
+  "pchembl": 5.7,
+  "value": 1995.26,
+  "assay": "CHEMBL749540",
+  "doc": "CHEMBL1126670"
+ },
+ {
+  "mol": "CHEMBL3349620",
+  "target": "Neuromedin-K receptor",
+  "pchembl": 5.1,
+  "value": 7943.28,
+  "assay": "CHEMBL857140",
+  "doc": "CHEMBL1126670"
+ },
+ {
+  "mol": "CHEMBL157591",
+  "target": "Cannabinoid receptor 1",
+  "pchembl": 9.1,
+  "value": 0.7943,
+  "assay": "CHEMBL658112",
+  "doc": "CHEMBL1148395"
+ },
+ {
+  "mol": "CHEMBL172537",
+  "target": "Rattus norvegicus",
+  "pchembl": 8.46,
+  "value": 3.467,
+  "assay": "CHEMBL802806",
+  "doc": "CHEMBL1125644"
+ },
+ {
+  "mol": "CHEMBL550",
+  "target": "Muscarinic acetylcholine receptor M2",
+  "pchembl": 5.0,
+  "value": 10000.0,
+  "assay": "CHEMBL748234",
+  "doc": "CHEMBL1126174"
+ },
+ {
+  "mol": "CHEMBL6920",
+  "target": "Cavia porcellus",
+  "pchembl": 8.6,
+  "value": 2.512,
+  "assay": "CHEMBL689690",
+  "doc": "CHEMBL1122495"
+ },
+ {
+  "mol": "CHEMBL6920",
+  "target": "Cavia porcellus",
+  "pchembl": 8.2,
+  "value": 6.31,
+  "assay": "CHEMBL857044",
+  "doc": "CHEMBL1122495"
+ },
+ {
+  "mol": "CHEMBL262226",
+  "target": "Rattus norvegicus",
+  "pchembl": 6.0,
+  "value": 1000.0,
+  "assay": "CHEMBL796079",
+  "doc": "CHEMBL1124158"
+ },
+ {
+  "mol": "CHEMBL368995",
+  "target": "Oryctolagus cuniculus",
+  "pchembl": 9.35,
+  "value": 0.4467,
+  "assay": "CHEMBL767387",
+  "doc": "CHEMBL1152006"
+ },
+ {
+  "mol": "CHEMBL301132",
+  "target": "Angiotensin II receptor",
+  "pchembl": 8.36,
+  "value": 4.365,
+  "assay": "CHEMBL767386",
+  "doc": "CHEMBL1127867"
+ },
+ {
+  "mol": "CHEMBL3349686",
+  "target": "Substance-K receptor",
+  "pchembl": 4.9,
+  "value": 12589.25,
+  "assay": "CHEMBL749548",
+  "doc": "CHEMBL1126670"
+ },
+ {
+  "mol": "CHEMBL173556",
+  "target": "Rattus norvegicus",
+  "pchembl": 7.16,
+  "value": 69.18,
+  "assay": "CHEMBL802806",
+  "doc": "CHEMBL1125644"
+ },
+ {
+  "mol": "CHEMBL193",
+  "target": "Rattus norvegicus",
+  "pchembl": 9.83,
+  "value": 0.1479,
+  "assay": "CHEMBL802806",
+  "doc": "CHEMBL1125644"
+ },
+ {
+  "mol": "CHEMBL327363",
+  "target": "Muscarinic acetylcholine receptor M2",
+  "pchembl": 5.4,
+  "value": 3981.07,
+  "assay": "CHEMBL748234",
+  "doc": "CHEMBL1126174"
+ },
+ {
+  "mol": "CHEMBL1790192",
+  "target": "Oxytocin receptor",
+  "pchembl": 6.86,
+  "value": 138.04,
+  "assay": "CHEMBL762755",
+  "doc": "CHEMBL1125451"
+ },
+ {
+  "mol": "CHEMBL158784",
+  "target": "Cannabinoid receptor 1",
+  "pchembl": 8.7,
+  "value": 1.995,
+  "assay": "CHEMBL658112",
+  "doc": "CHEMBL1148395"
+ },
+ {
+  "mol": "CHEMBL412262",
+  "target": "Cannabinoid receptor 1",
+  "pchembl": 9.9,
+  "value": 0.1259,
+  "assay": "CHEMBL658112",
+  "doc": "CHEMBL1148395"
+ },
+ {
+  "mol": "CHEMBL1790196",
+  "target": "Rattus norvegicus",
+  "pchembl": 5.1,
+  "value": 7943.28,
+  "assay": "CHEMBL842158",
+  "doc": "CHEMBL1125451"
+ },
+ {
+  "mol": "CHEMBL369582",
+  "target": "Rattus norvegicus",
+  "pchembl": 8.55,
+  "value": 2.818,
+  "assay": "CHEMBL802806",
+  "doc": "CHEMBL1125644"
+ },
+ {
+  "mol": "CHEMBL148306",
+  "target": "Beta-1 adrenergic receptor",
+  "pchembl": 8.12,
+  "value": 7.586,
+  "assay": "CHEMBL655650",
+  "doc": "CHEMBL1122110"
+ },
+ {
+  "mol": "CHEMBL148306",
+  "target": "Beta-2 adrenergic receptor",
+  "pchembl": 7.02,
+  "value": 95.5,
+  "assay": "CHEMBL651634",
+  "doc": "CHEMBL1122110"
+ },
+ {
+  "mol": "CHEMBL45911",
+  "target": "Angiotensin II receptor",
+  "pchembl": 8.63,
+  "value": 2.344,
+  "assay": "CHEMBL767386",
+  "doc": "CHEMBL1127867"
+ },
+ {
+  "mol": "CHEMBL352169",
+  "target": "5-hydroxytryptamine receptor 2A",
+  "pchembl": 7.19,
+  "value": 64.57,
+  "assay": "CHEMBL805832",
+  "doc": "CHEMBL1128861"
+ }
+]
